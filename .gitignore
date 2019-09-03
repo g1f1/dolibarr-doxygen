@@ -1,0 +1,8 @@
+*~
+/build/**
+!/build/.gitkeep
+/build_versions**
+/versions/ver*
+/dolibarr/
+/doxygen_warnings.log
+

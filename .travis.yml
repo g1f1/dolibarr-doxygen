@@ -1,0 +1,125 @@
+language: minimal
+
+dist: bionic
+
+matrix:
+  fast_finish: true
+
+jobs:
+  include:
+    - stage: "Prepare"
+      name: "Generate unified index file"
+      workspaces:
+        create:
+          name: build_index
+          paths:
+            - build_index/
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateUnifiedIndex.sh
+    - stage: "Build"
+      name: "Build doxygen docs for Dolibarr versions (1/5)"
+      services:
+        - docker
+      env:
+        - VERSIONSFILE=versions01
+      workspaces:
+        create:
+          name: build_versions01
+          paths:
+            - build_versions01
+      addons:
+        apt:
+          packages:
+            - doxygen
+            - graphviz
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateDoxygenForVersions.sh
+    - stage: "Build"
+      name: "Build doxygen docs for Dolibarr versions (2/5)"
+      services:
+        - docker
+      env:
+        - VERSIONSFILE=versions02
+      workspaces:
+        create:
+          name: build_versions02
+          paths:
+            - build_versions02
+      addons:
+        apt:
+          packages:
+            - doxygen
+            - graphviz
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateDoxygenForVersions.sh
+    - stage: "Build"
+      name: "Build doxygen docs for Dolibarr versions (3/5)"
+      services:
+        - docker
+      env:
+        - VERSIONSFILE=versions03
+      workspaces:
+        create:
+          name: build_versions03
+          paths:
+            - build_versions03
+      addons:
+        apt:
+          packages:
+            - doxygen
+            - graphviz
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateDoxygenForVersions.sh
+    - stage: "Build"
+      name: "Build doxygen docs for Dolibarr versions (4/5)"
+      services:
+        - docker
+      env:
+        - VERSIONSFILE=versions04
+      workspaces:
+        create:
+          name: build_versions04
+          paths:
+            - build_versions04
+      addons:
+        apt:
+          packages:
+            - doxygen
+            - graphviz
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateDoxygenForVersions.sh
+    - stage: "Build"
+      name: "Build doxygen docs for Dolibarr versions (5/5)"
+      services:
+        - docker
+      env:
+        - VERSIONSFILE=versions05
+      workspaces:
+        create:
+          name: build_versions05
+          paths:
+            - build_versions05
+      addons:
+        apt:
+          packages:
+            - doxygen
+            - graphviz
+      before_script: git clone https://github.com/Dolibarr/dolibarr.git
+      script: ./generateDoxygenForVersions.sh
+    - stage: deploy
+      name: "Deploy generated Doxygen docs to GitHub pages"
+      workspaces:
+        use:
+          - build_index
+          - build_versions01
+          - build_versions02
+          - build_versions03
+          - build_versions04
+          - build_versions05
+      script:
+        - mv -v -t $TRAVIS_BUILD_DIR/build/ $TRAVIS_BUILD_DIR/build_index/* $TRAVIS_BUILD_DIR/build_versions01/* $TRAVIS_BUILD_DIR/build_versions02/* $TRAVIS_BUILD_DIR/build_versions03/* $TRAVIS_BUILD_DIR/build_versions04/* $TRAVIS_BUILD_DIR/build_versions05/*
+      deploy:
+        provider: script
+        skip_cleanup: true
+        script: ./deployToGitHubPages.sh
+
