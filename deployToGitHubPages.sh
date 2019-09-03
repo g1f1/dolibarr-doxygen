@@ -8,7 +8,7 @@ function bell() {
 }
 bell &
 
-GIT_DEPLOY_REPO=https://${GITHUB_API_KEY}@github.com/dolibarr/doxygen.git
+GIT_DEPLOY_REPO=https://${GITHUB_API_KEY}@github.com/Dolibarr/dolibarr-doxygen.git
 
 echo -e "\nDisabling Git automatic garbage collecting to save some time..."
 git config --global gc.auto 0
@@ -25,7 +25,7 @@ echo -e "\nAdding all Doxygen generated files to local Git repository..."
 git add . > /dev/null
 
 echo -e "\nCommitting added files to local Git repository..."
-git commit --quiet -m " Deploy jtraulle/dolibarr-doxygen to github.com/dolibarr/doxygen.git:gh-pages"
+git commit --quiet -m " Deploy Dolibarr/dolibarr-doxygen to github.com/Dolibarr/dolibarr-doxygen.git:gh-pages"
 
 echo -e "\nPushing local Git repository to remote location (GitHub) to deploy to GitHub Pages..."
 git push --force "${GIT_DEPLOY_REPO}" master:gh-pages
