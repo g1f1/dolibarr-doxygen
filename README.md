@@ -2,7 +2,7 @@
 
 This repository contain the scripts used by [the Dolibarr project](https://www.dolibarr.org/) to generate automatically every day the [Doxygen documentation](http://www.doxygen.nl/) of the project and publish it on [GitHub Pages](https://pages.github.com/) (branch [gh-pages](https://github.com/Dolibarr/doxygen/tree/gh-pages) of this repository) using the [Travis CI](https://travis-ci.org) continuous integration and deployment service and its [Cron Jobs feature](https://docs.travis-ci.com/user/cron-jobs/).
 
-## [Travis CI](https://travis-ci.org/dolibarr/doxygen) [![Build Status](https://travis-ci.org/Dolibarr/doxygen.svg?branch=master)](https://travis-ci.org/Dolibarr/doxygen)
+## [![TravisCI logo](docs/travis-logo.png)](https://travis-ci.org/dolibarr/doxygen) [![Build Status](https://travis-ci.org/Dolibarr/doxygen.svg?branch=master)](https://travis-ci.org/Dolibarr/doxygen)
 
 * [See the last builds on Travis CI](https://travis-ci.org/dolibarr/doxygen/builds)
 
