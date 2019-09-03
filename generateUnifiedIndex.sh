@@ -16,9 +16,9 @@ cat template_index/index-header.html > build_index/logs.html
 
 while read version; do
   echo "<li><strong style='font-size: large;'>→ $version</strong></li><ul>" >> build_index/index.html
-  echo "<li><a href="$version/index.html"><img style='vertical-align: middle;' src="web.png" /><strong> online HTML version</strong></a></li>" >> build_index/index.html
-  echo "<li><a href="https://gitlab.com/jtraulle/dolibarr-doxygen/-/archive/gh-pages/dolibarr-doxygen-gh-pages.zip?path=$version"><img style='vertical-align: middle;' src="zip.png" /> download .zip offline HTML version</a></li>" >> build_index/index.html
-  echo "<li><a href="$version/dolibarr-$version.pdf"><img style='vertical-align: middle;' src="pdf.png" /> PDF version for printing or offline usage</a></li>" >> build_index/index.html
+  echo "<li><a href="$version/index.html"><img style='vertical-align: middle;' src="web.png" /><strong> browse HTML version (online)</strong></a></li>" >> build_index/index.html
+  echo "<li><a href="https://gitlab.com/jtraulle/dolibarr-doxygen/-/archive/gh-pages/dolibarr-doxygen-gh-pages.zip?path=$version"><img style='vertical-align: middle;' src="zip.png" /> download HTML version .zip archive (for offline usage)</a></li>" >> build_index/index.html
+  echo "<li><a href="$version/dolibarr-$version.pdf"><img style='vertical-align: middle;' src="pdf.png" /> download PDF version (for printing or offline usage)</a></li>" >> build_index/index.html
   echo "</ul>" >> build_index/index.html
 
   echo "<li><strong style='font-size: large;'>→ $version</strong></li><ul>" >> build_index/logs.html
