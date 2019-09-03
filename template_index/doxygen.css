@@ -1056,6 +1056,18 @@ table.fieldtable {
 	color:#6884BD;
 }
 
+.navpath li.footer-left
+{
+	list-style-type:none;
+	padding-left:10px;
+	padding-right:15px;
+	background-image:none;
+	background-repeat:no-repeat;
+	background-position:right;
+	color:#364D7C;
+	font-size: 8pt;
+}
+
 .navpath li.footer
 {
         list-style-type:none;
