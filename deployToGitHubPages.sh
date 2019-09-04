@@ -19,6 +19,7 @@ git config --global user.email "deploy@travis-ci.org"
 
 echo -e "\nCreating new empty Git repository into 'build' directory..."
 cd build
+echo "doxygen.dolibarr.org" > CNAME
 git init
 
 echo -e "\nAdding all Doxygen generated files to local Git repository..."
