@@ -6,3 +6,6 @@
 /dolibarr/
 /doxygen_warnings.log
 
+/.settings/
+/.buildpath
+/.project
