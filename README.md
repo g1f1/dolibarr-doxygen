@@ -1,4 +1,4 @@
-# Dolibarr Doxygen documentation
+# Dolibarr Doxygen documentation ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Dolibarr/dolibarr-doxygen/gh-pages?label=last%20publish)
 
 This repository contain the scripts used by [the Dolibarr project](https://www.dolibarr.org/) to generate automatically weekly the [Doxygen documentation](http://www.doxygen.nl/) of the project and publish it on [GitHub Pages](https://pages.github.com/) (branch [gh-pages](https://github.com/Dolibarr/dolibarr-doxygen/tree/gh-pages) of this repository) using the [Travis CI](https://travis-ci.org) continuous integration and deployment service and its [Cron Jobs feature](https://docs.travis-ci.com/user/cron-jobs/).
 
