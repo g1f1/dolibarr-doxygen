@@ -1,10 +1,11 @@
 # Dolibarr Doxygen documentation [![GitHub last commit to gh-pages branch](https://img.shields.io/github/last-commit/Dolibarr/dolibarr-doxygen/gh-pages?label=last%20publish)](https://github.com/Dolibarr/dolibarr-doxygen/commits/gh-pages)
 
-This repository contain the scripts used by [the Dolibarr project](https://www.dolibarr.org/) to generate automatically weekly the [Doxygen documentation](http://www.doxygen.nl/) of the project and publish it on [GitHub Pages](https://pages.github.com/) (branch [gh-pages](https://github.com/Dolibarr/dolibarr-doxygen/tree/gh-pages) of this repository) using the [Travis CI](https://travis-ci.org) continuous integration and deployment service and its [Cron Jobs feature](https://docs.travis-ci.com/user/cron-jobs/).
+This repository contain the scripts used by [the Dolibarr project](https://www.dolibarr.org/) to generate automatically weekly the [Documentation of source files](https://doxygen.dolibarr.org) of the project (using [Doxygen](http://www.doxygen.nl/) and publish it on GitHub Pages (branch [gh-pages](https://github.com/Dolibarr/dolibarr-doxygen/tree/gh-pages)) using the [Travis CI](https://travis-ci.org) continuous integration and deployment service and its [Cron Jobs feature](https://docs.travis-ci.com/user/cron-jobs/).
 
 ## [![TravisCI logo](docs/travis-logo.png)](https://travis-ci.org/dolibarr/dolibarr-doxygen) [![Build Status](https://travis-ci.org/Dolibarr/dolibarr-doxygen.svg?branch=master)](https://travis-ci.org/Dolibarr/dolibarr-doxygen)
 
-* [See the last builds on Travis CI](https://travis-ci.org/dolibarr/dolibarr-doxygen/builds)
+* [See the latest builds on Travis CI](https://travis-ci.org/dolibarr/dolibarr-doxygen/builds)
+* [See the latest published Dolibarr documentation of sources](https://doxygen.dolibarr.org)
 
 ### Build matrix
 
