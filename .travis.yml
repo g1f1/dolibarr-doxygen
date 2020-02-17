@@ -1,11 +1,10 @@
-language: minimal
+language: shell
 
+os: linux
 dist: bionic
 
-matrix:
-  fast_finish: true
-
 jobs:
+  fast_finish: true
   include:
     - stage: "Prepare"
       name: "Generate unified index file"
