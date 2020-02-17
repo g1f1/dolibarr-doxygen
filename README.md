@@ -48,12 +48,12 @@ Generating one version HTML doc + PDF version using [LuaLaTex](http://www.luatex
 
 ##### More about the [`dolibarr/doxygen`](https://hub.docker.com/r/dolibarr/doxygen) [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image)
 
-[![Docker Hub Build Status](https://img.shields.io/docker/cloud/build/dolibarr/doxygen?logo=docker&logoColor=white)](https://hub.docker.com/r/dolibarr/doxygen/builds) [![](https://images.microbadger.com/badges/image/dolibarr/doxygen:1.8.16.svg)](https://microbadger.com/images/dolibarr/doxygen:1.8.16) [![](https://images.microbadger.com/badges/version/dolibarr/doxygen:1.8.16.svg)](https://microbadger.com/images/dolibarr/doxygen:1.8.16)
+[![Docker Hub Build Status](https://img.shields.io/docker/cloud/build/dolibarr/doxygen?logo=docker&logoColor=white)](https://hub.docker.com/r/dolibarr/doxygen/builds) [![](https://images.microbadger.com/badges/image/dolibarr/doxygen:1.8.17.svg)](https://microbadger.com/images/dolibarr/doxygen:1.8.17) [![](https://images.microbadger.com/badges/version/dolibarr/doxygen:1.8.17.svg)](https://microbadger.com/images/dolibarr/doxygen:1.8.17)
 
 You may have noticed that we use a custom [`dolibarr/doxygen`](https://hub.docker.com/r/dolibarr/doxygen) [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image) for generating the documentation using [Doxygen](http://www.doxygen.nl/).
 
 * This [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image) is based on [Alpine Linux](https://alpinelinux.org/about/) [Edge](https://wiki.alpinelinux.org/wiki/Edge) branch.
-* This [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image) builds [Doxygen](http://www.doxygen.nl/) from the latest version published sources (currently 1.8.16).
+* This [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image) builds [Doxygen](http://www.doxygen.nl/) from the latest version published sources (currently 1.8.17).
 * This [Docker](https://docs.docker.com/engine/docker-overview/) [image](https://docs.docker.com/glossary/?term=image) is shipped with the [TeX Live](https://www.tug.org/texlive/) distribution to be able to compile .tex files (and generate [Doxygen](http://www.doxygen.nl/) PDF documentation that are based of LaTeX files)
 * The [Dockerfile](https://docs.docker.com/glossary/?term=Dockerfile) used to build this image [is publicly available](https://hub.docker.com/r/dolibarr/doxygen/dockerfile).
 
