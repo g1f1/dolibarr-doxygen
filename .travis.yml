@@ -1,5 +1,6 @@
 language: minimal
 
+os: linux
 dist: bionic
 
 matrix:
@@ -17,7 +18,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateUnifiedIndex.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (1/5)"
+      name: "Build doxygen docs for Dolibarr versions (1/4)"
       services:
         - docker
       env:
@@ -35,7 +36,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (2/5)"
+      name: "Build doxygen docs for Dolibarr versions (2/4)"
       services:
         - docker
       env:
@@ -53,7 +54,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (3/5)"
+      name: "Build doxygen docs for Dolibarr versions (3/4)"
       services:
         - docker
       env:
@@ -71,7 +72,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (4/5)"
+      name: "Build doxygen docs for Dolibarr versions (4/4)"
       services:
         - docker
       env:
@@ -81,24 +82,6 @@ jobs:
           name: build_versions04
           paths:
             - build_versions04
-      addons:
-        apt:
-          packages:
-            - doxygen
-            - graphviz
-      before_script: git clone https://github.com/Dolibarr/dolibarr.git
-      script: ./generateDoxygenForVersions.sh
-    - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (5/5)"
-      services:
-        - docker
-      env:
-        - VERSIONSFILE=versions05
-      workspaces:
-        create:
-          name: build_versions05
-          paths:
-            - build_versions05
       addons:
         apt:
           packages:
@@ -117,7 +100,7 @@ jobs:
           - build_versions04
           - build_versions05
       script:
-        - mv -v -t $TRAVIS_BUILD_DIR/build/ $TRAVIS_BUILD_DIR/build_index/* $TRAVIS_BUILD_DIR/build_versions01/* $TRAVIS_BUILD_DIR/build_versions02/* $TRAVIS_BUILD_DIR/build_versions03/* $TRAVIS_BUILD_DIR/build_versions04/* $TRAVIS_BUILD_DIR/build_versions05/*
+        - mv -v -t $TRAVIS_BUILD_DIR/build/ $TRAVIS_BUILD_DIR/build_index/* $TRAVIS_BUILD_DIR/build_versions01/* $TRAVIS_BUILD_DIR/build_versions02/* $TRAVIS_BUILD_DIR/build_versions03/* $TRAVIS_BUILD_DIR/build_versions04/*
       deploy:
         provider: script
         skip_cleanup: true
