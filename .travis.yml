@@ -16,7 +16,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateUnifiedIndex.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (1/4)"
+      name: "Build doxygen docs for Dolibarr versions (1/3)"
       services:
         - docker
       env:
@@ -34,7 +34,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (2/4)"
+      name: "Build doxygen docs for Dolibarr versions (2/3)"
       services:
         - docker
       env:
@@ -52,7 +52,7 @@ jobs:
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
     - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (3/4)"
+      name: "Build doxygen docs for Dolibarr versions (3/3)"
       services:
         - docker
       env:
@@ -69,24 +69,6 @@ jobs:
             - graphviz
       before_script: git clone https://github.com/Dolibarr/dolibarr.git
       script: ./generateDoxygenForVersions.sh
-    - stage: "Build"
-      name: "Build doxygen docs for Dolibarr versions (4/4)"
-      services:
-        - docker
-      env:
-        - VERSIONSFILE=versions04
-      workspaces:
-        create:
-          name: build_versions04
-          paths:
-            - build_versions04
-      addons:
-        apt:
-          packages:
-            - doxygen
-            - graphviz
-      before_script: git clone https://github.com/Dolibarr/dolibarr.git
-      script: ./generateDoxygenForVersions.sh
     - stage: deploy
       name: "Deploy generated Doxygen docs to GitHub pages"
       workspaces:
@@ -95,10 +77,8 @@ jobs:
           - build_versions01
           - build_versions02
           - build_versions03
-          - build_versions04
-          - build_versions05
       script:
-        - mv -v -t $TRAVIS_BUILD_DIR/build/ $TRAVIS_BUILD_DIR/build_index/* $TRAVIS_BUILD_DIR/build_versions01/* $TRAVIS_BUILD_DIR/build_versions02/* $TRAVIS_BUILD_DIR/build_versions03/* $TRAVIS_BUILD_DIR/build_versions04/*
+        - mv -v -t $TRAVIS_BUILD_DIR/build/ $TRAVIS_BUILD_DIR/build_index/* $TRAVIS_BUILD_DIR/build_versions01/* $TRAVIS_BUILD_DIR/build_versions02/* $TRAVIS_BUILD_DIR/build_versions03/*
       deploy:
         provider: script
         skip_cleanup: true
