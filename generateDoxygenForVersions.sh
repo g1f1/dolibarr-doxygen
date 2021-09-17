@@ -10,7 +10,7 @@ bell &
 
 DIRPATH="$(pwd)"
 
-cd versions && split --numeric-suffixes=1 -n l/3 dolibarrVersions versions
+cd versions && split --numeric-suffixes=1 -n l/4 dolibarrVersions versions
 cd ..
 
 echo "Using version file versions/$VERSIONSFILE"
