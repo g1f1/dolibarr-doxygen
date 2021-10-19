@@ -1,0 +1,5 @@
+<map id="ModeleNumRefProjects" name="ModeleNumRefProjects">
+<area shape="rect" id="node1" title="Classe mere des modeles de numerotation des references de projets." alt="" coords="79,5,239,32"/>
+<area shape="rect" id="node2" href="$db/d49/classmod__project__simple.html" title="Class to manage the numbering module Simple for project references." alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$d1/d54/classmod__project__universal.html" title="Classe du modele de numerotation de reference de projet Universal." alt="" coords="168,80,320,107"/>
+</map>

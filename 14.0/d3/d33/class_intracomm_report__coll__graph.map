@@ -1,0 +1,6 @@
+<map id="IntracommReport" name="IntracommReport">
+<area shape="rect" id="node1" title="Class to manage intracomm report." alt="" coords="108,109,231,136"/>
+<area shape="rect" id="node2" href="$db/d09/class_common_object.html" title="Parent class of all other business classes (invoices, contracts, proposals, orders,..." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="142,5,197,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="221,5,275,32"/>
+</map>

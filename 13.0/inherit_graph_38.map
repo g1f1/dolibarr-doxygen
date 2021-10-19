@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d5b/interface_database.html" title="Class to manage Dolibarr database access for an SQL database." alt="" coords="5,81,83,108"/>
+<area shape="rect" id="node2" href="$db/d98/class_doli_d_b.html" title="Class to manage Dolibarr database access." alt="" coords="131,81,193,108"/>
+<area shape="rect" id="node3" href="$df/d61/class_doli_d_b_mysqli.html" title="Class to manage Dolibarr database access for a MySQL database using the MySQLi extension." alt="" coords="243,5,342,32"/>
+<area shape="rect" id="node4" href="$d5/d89/class_doli_d_b_pgsql.html" title="Class to drive a Postgresql database for Dolibarr." alt="" coords="245,56,340,83"/>
+<area shape="rect" id="node5" href="$de/da9/class_doli_d_b_sqlite3.html" title="Class to manage Dolibarr database access for a SQLite database." alt="" coords="241,107,344,133"/>
+<area shape="rect" id="node6" href="$d6/d06/class_traceable_d_b.html" title="TraceableDB class." alt="" coords="244,157,341,184"/>
+</map>

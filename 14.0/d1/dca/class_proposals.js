@@ -1,0 +1,26 @@
+var class_proposals =
+[
+    [ "__construct", "d1/dca/class_proposals.html#a095c5d389db211932136b53f25f39685", null ],
+    [ "_cleanObjectDatas", "d1/dca/class_proposals.html#ad430d5adca59ce0108d87864a09aa79d", null ],
+    [ "_fetch", "d1/dca/class_proposals.html#a7053d699d460297c8d98a9efc42d9cf9", null ],
+    [ "_validate", "d1/dca/class_proposals.html#a305707a21e1a181f965da638445cbf2f", null ],
+    [ "close", "d1/dca/class_proposals.html#a61bf82ab6e86aa0374abb2be319133d4", null ],
+    [ "delete", "d1/dca/class_proposals.html#a2f8258add505482d7f00ea26493a5723", null ],
+    [ "deleteContact", "d1/dca/class_proposals.html#abdc98e965271786c0c8edd2d09f6404e", null ],
+    [ "deleteLine", "d1/dca/class_proposals.html#a4c27e883d4399f5755ef0301c6370e53", null ],
+    [ "get", "d1/dca/class_proposals.html#aff02ddecbd3fbf85ebd68d9f0a482402", null ],
+    [ "getByRef", "d1/dca/class_proposals.html#ae832850b08399f17704a6db70a45c1d3", null ],
+    [ "getByRefExt", "d1/dca/class_proposals.html#ae71c99c8a4847dc750b18e5033242160", null ],
+    [ "getLines", "d1/dca/class_proposals.html#afb2d4ab00e4b8fdf9d93d9eed657c75f", null ],
+    [ "index", "d1/dca/class_proposals.html#a2fc514a3af8011cbed51fa463b9d284c", null ],
+    [ "post", "d1/dca/class_proposals.html#ad96ecda823f181e6d999f59dce8db67e", null ],
+    [ "postContact", "d1/dca/class_proposals.html#a837f2aeec02a65dda8bbab7d86a7e297", null ],
+    [ "postLine", "d1/dca/class_proposals.html#a01daf09692b2dd1623addf05b59cdeb4", null ],
+    [ "put", "d1/dca/class_proposals.html#a762cc3f4b2a772c3c8ee33814568f2cf", null ],
+    [ "putLine", "d1/dca/class_proposals.html#abf3f6523e591cd88c89ff2c7bcf8887f", null ],
+    [ "setinvoiced", "d1/dca/class_proposals.html#aa0cf591ca966db5a22b786272a2f2435", null ],
+    [ "settodraft", "d1/dca/class_proposals.html#a4b842ede8f24d5fd1db4458c05c835a6", null ],
+    [ "validate", "d1/dca/class_proposals.html#ab42faf9fcb7f6e4cabbcac313e503e1e", null ],
+    [ "$FIELDS", "d1/dca/class_proposals.html#a2e319c84d672043fa6d06d2552063929", null ],
+    [ "$propal", "d1/dca/class_proposals.html#ae68d2c2da1e0b7ff2adbacbe854dafdf", null ]
+];

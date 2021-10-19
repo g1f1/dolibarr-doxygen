@@ -1,0 +1,4 @@
+<map id="ModelePDFProduct" name="ModelePDFProduct">
+<area shape="rect" id="node1" title="Parent class to manage intervention document templates." alt="" coords="15,80,150,107"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_common_doc_generator.html" title="Parent class for documents generators." alt="" coords="5,5,160,32"/>
+</map>

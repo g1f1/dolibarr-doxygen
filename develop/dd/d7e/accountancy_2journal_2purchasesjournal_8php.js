@@ -1,0 +1,26 @@
+var accountancy_2journal_2purchasesjournal_8php =
+[
+    [ "$accountingaccount", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a9d4da73b1fb817359c0b99bd53de255f", null ],
+    [ "$accountingjournalstatic", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#afa6902a168ab69933b426f199c40e3ff", null ],
+    [ "$action", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$date_end", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a3824dbd552a00c31399fc95d30ab505a", null ],
+    [ "$date_endday", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#aa17d8d55030ebba893255343d7e49759", null ],
+    [ "$date_endmonth", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#acd9776044e2f3dc3318bc7e3d7aaf960", null ],
+    [ "$date_endyear", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a0db2ba4bde50dafc5fb29622ef970888", null ],
+    [ "$date_start", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#adffe3566fa44610a67a94146a30304ba", null ],
+    [ "$date_startday", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#aa836893320c3ab35e161e21a75e09b0e", null ],
+    [ "$date_startmonth", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a02c14b086ffe25a94bfac2d279b72b81", null ],
+    [ "$date_startyear", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#af2005f257e5ffda2f95a67bf7313bdd3", null ],
+    [ "$errorforinvoice", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#ae94b67b0d84516e49d9b1f32ad6bcdff", null ],
+    [ "$form", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a063e4e4f06aa225b2d5f89fd73ccf2a5", null ],
+    [ "$id_journal", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a3dbf7d5b016f6153b585a7030b602006", null ],
+    [ "$in_bookkeeping", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a2b5aa69dd95c036fce678b06d5aa1ec9", null ],
+    [ "$journal", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a82d340c6fc4c5debb649394de4853097", null ],
+    [ "$journal_label", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a6b6a68e6c29e75475a33d54090c5e9cf", null ],
+    [ "$now", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#ae9db9b553a171102ae3a0b7230fab92f", null ],
+    [ "$parameters", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$reshook", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a3ef9bcf9e0a8508ed4fe2d1e29cad0e7", null ],
+    [ "$result", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$sql", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a070af0a0b8bf99e0f8c9e08ead65c630", null ],
+    [ "else", "dd/d7e/accountancy_2journal_2purchasesjournal_8php.html#a95321ad493869dffec303adcb3cdd9dd", null ]
+];

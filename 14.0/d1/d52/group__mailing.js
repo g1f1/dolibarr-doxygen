@@ -1,0 +1,28 @@
+var group__mailing =
+[
+    [ "mailing.php", "dd/d6b/admin_2mailing_8php.html", null ],
+    [ "advtargetemailing.php", "db/d50/advtargetemailing_8php.html", null ],
+    [ "card.php", "d6/d4d/comm_2mailing_2card_8php.html", null ],
+    [ "cibles.php", "db/dd5/cibles_8php.html", null ],
+    [ "advtargetemailing.class.php", "d1/d66/advtargetemailing_8class_8php.html", null ],
+    [ "html.formadvtargetemailing.class.php", "d1/d37/html_8formadvtargetemailing_8class_8php.html", null ],
+    [ "mailing.class.php", "de/d9b/mailing_8class_8php.html", null ],
+    [ "index.php", "d3/dc7/comm_2mailing_2index_8php.html", null ],
+    [ "info.php", "d5/d65/comm_2mailing_2info_8php.html", null ],
+    [ "list.php", "d3/df6/comm_2mailing_2list_8php.html", null ],
+    [ "advthirdparties.modules.php", "d3/daa/advthirdparties_8modules_8php.html", null ],
+    [ "contacts1.modules.php", "d6/d72/contacts1_8modules_8php.html", null ],
+    [ "example.modules.php", "d9/dd3/example_8modules_8php.html", null ],
+    [ "fraise.modules.php", "da/dc5/fraise_8modules_8php.html", null ],
+    [ "modules_mailings.php", "dc/def/modules__mailings_8php.html", null ],
+    [ "pomme.modules.php", "d7/dc1/pomme_8modules_8php.html", null ],
+    [ "thirdparties.modules.php", "db/d31/thirdparties_8modules_8php.html", null ],
+    [ "thirdparties_services_expired.modules.php", "df/d48/thirdparties__services__expired_8modules_8php.html", null ],
+    [ "xinputfile.modules.php", "d5/d72/xinputfile_8modules_8php.html", null ],
+    [ "xinputuser.modules.php", "d3/d0a/xinputuser_8modules_8php.html", null ],
+    [ "modMailing.class.php", "d5/dda/mod_mailing_8class_8php.html", null ],
+    [ "mailing-read.php", "d9/d2e/mailing-read_8php.html", null ],
+    [ "mailing-unsubscribe.php", "df/d24/mailing-unsubscribe_8php.html", null ],
+    [ "mailing-send.php", "db/ddf/mailing-send_8php.html", null ],
+    [ "reset-invalid-emails.php", "d0/d03/reset-invalid-emails_8php.html", null ]
+];

@@ -1,0 +1,25 @@
+var asset_2type_8php =
+[
+    [ "$accountancy_code_asset", "d6/d7f/asset_2type_8php.html#a9b366737c96dfb07deb671598a675070", null ],
+    [ "$accountancy_code_depreciation_asset", "d6/d7f/asset_2type_8php.html#a18bce0739d466ea8620a5bd8eca7fc61", null ],
+    [ "$accountancy_code_depreciation_expense", "d6/d7f/asset_2type_8php.html#a8d8e2114e6b274f5e10849d24c619e67", null ],
+    [ "$action", "d6/d7f/asset_2type_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "d6/d7f/asset_2type_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$cancel", "d6/d7f/asset_2type_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$comment", "d6/d7f/asset_2type_8php.html#a536677acc0163c53c067316a97456e6c", null ],
+    [ "$extrafields", "d6/d7f/asset_2type_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "d6/d7f/asset_2type_8php.html#aea9c5f89d6fcbba23137b6ec7b61fe90", null ],
+    [ "$helpurl", "d6/d7f/asset_2type_8php.html#a23bbeed4a250e27799dc25f55e51d2d4", null ],
+    [ "$label", "d6/d7f/asset_2type_8php.html#a6a49a448358163aa8ecd339b059eeabc", null ],
+    [ "$limit", "d6/d7f/asset_2type_8php.html#ae05862a0294251c88629b141b5ce329a", null ],
+    [ "$object", "d6/d7f/asset_2type_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$offset", "d6/d7f/asset_2type_8php.html#a760b1abde0875e1f5fd8879d49e23422", null ],
+    [ "$page", "d6/d7f/asset_2type_8php.html#a0a44e6760141442bb439b1ab1395d8ff", null ],
+    [ "$pagenext", "d6/d7f/asset_2type_8php.html#a858f41315ebc780cc51614bcf2558f6c", null ],
+    [ "$pageprev", "d6/d7f/asset_2type_8php.html#a2aed2a7a0f1235d3a53b08dea07bd5c7", null ],
+    [ "$result", "d6/d7f/asset_2type_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$rowid", "d6/d7f/asset_2type_8php.html#aea0f842c6eee8319cfba3c3398f3f8a2", null ],
+    [ "$sortfield", "d6/d7f/asset_2type_8php.html#ad8a3bcfb2e745be70b1e7ebe97472ce6", null ],
+    [ "$sortorder", "d6/d7f/asset_2type_8php.html#a11ec75e1068cd7566eaaf44082cdd029", null ],
+    [ "$type", "d6/d7f/asset_2type_8php.html#a9a4a6fba2208984cabb3afacadf33919", null ]
+];

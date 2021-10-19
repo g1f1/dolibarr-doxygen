@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['natural_5fsearch_8626',['natural_search',['../d9/d69/functions_8lib_8php.html#a46f24284833ccc2de3a8a0d703293287',1,'functions.lib.php']]],
+  ['nb_5fdifferent_5fproducts_8627',['nb_different_products',['../db/de4/class_entrepot.html#af21c49fc1c68e70688e3a2450c0644e3',1,'Entrepot']]],
+  ['nb_5fexpedition_8628',['nb_expedition',['../da/de7/class_commande.html#a86527ec96bb3b2a398fddc800c74892b',1,'Commande']]],
+  ['nb_5fproducts_8629',['nb_products',['../db/de4/class_entrepot.html#a44e7ad78f38d618399fe033402bc6910',1,'Entrepot']]],
+  ['nbfactureaprelever_8630',['NbFactureAPrelever',['../d6/d94/class_bon_prelevement.html#ae46bf55999e0aff84aae0714840e0770',1,'BonPrelevement']]],
+  ['nbofinvoicetopay_8631',['nbOfInvoiceToPay',['../d6/d94/class_bon_prelevement.html#acf80f1fd76b72191b5cf4171bce10508',1,'BonPrelevement']]],
+  ['nbofproductrefs_8632',['nbOfProductRefs',['../de/d1a/class_fournisseur.html#a160b9b8abb0df5ec87e6b67987989cf2',1,'Fournisseur']]],
+  ['neediban_8633',['needIBAN',['../db/d22/class_account.html#a49237eaf8f123c30cab534f23c5ffd9c',1,'Account']]],
+  ['newcycle_8634',['newCycle',['../d3/d75/class_facture.html#a6d3074849fef5a7edb348ba2a86a0f2b',1,'Facture']]],
+  ['newmessage_8635',['newMessage',['../d0/d2a/class_ticket.html#a4b751d98595a48aa4a866f42399739b0',1,'Ticket']]],
+  ['newpopup_8636',['newpopup',['../d0/de3/lib__head_8js_8php.html#af3b09e6041214b5373d6cbef4a2fa2ee',1,'lib_head.js.php']]],
+  ['newtoken_8637',['newToken',['../d9/d69/functions_8lib_8php.html#a6d79bb77d4de9606546ddfccacf358f9',1,'functions.lib.php']]],
+  ['nfx_8638',['nfx',['../dd/ddf/class_eval_math.html#a77e8e27ce29cf20fc31fea7b60cc1704',1,'EvalMath']]],
+  ['num_5fbetween_5fday_8639',['num_between_day',['../db/df7/date_8lib_8php.html#aa8775f599e2164ce80016d633ea3cab4',1,'date.lib.php']]],
+  ['num_5fopen_5fday_8640',['num_open_day',['../db/df7/date_8lib_8php.html#ab04be4870c8b3e2d2c1b8c001a35c70d',1,'date.lib.php']]],
+  ['num_5fpublic_5fholiday_8641',['num_public_holiday',['../db/df7/date_8lib_8php.html#af26f3504dd908e76070ad7caf198acfb',1,'date.lib.php']]],
+  ['num_5frows_8642',['num_rows',['../d8/d5b/interface_database.html#a08c7a0c5871f5f7f329701329cea83c7',1,'Database\num_rows()'],['../d5/de9/class_doli_d_b_mssql.html#a08c7a0c5871f5f7f329701329cea83c7',1,'DoliDBMssql\num_rows()'],['../df/d61/class_doli_d_b_mysqli.html#a08c7a0c5871f5f7f329701329cea83c7',1,'DoliDBMysqli\num_rows()'],['../d5/d89/class_doli_d_b_pgsql.html#a08c7a0c5871f5f7f329701329cea83c7',1,'DoliDBPgsql\num_rows()'],['../de/da9/class_doli_d_b_sqlite3.html#a08c7a0c5871f5f7f329701329cea83c7',1,'DoliDBSqlite3\num_rows()'],['../d6/d06/class_traceable_d_b.html#a08c7a0c5871f5f7f329701329cea83c7',1,'TraceableDB\num_rows()']]],
+  ['numero_5fsemaine_8643',['numero_semaine',['../db/ded/functions2_8lib_8php.html#aaaffa17129aba53efc158c9746b27b55',1,'functions2.lib.php']]],
+  ['numinvoice_8644',['numInvoice',['../dc/d46/class_facturation.html#ab46835c45bd7ba92c5e470ac536c4f24',1,'Facturation']]]
+];

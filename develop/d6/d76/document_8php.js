@@ -1,0 +1,26 @@
+var document_8php =
+[
+    [ "llxFooter", "d6/d76/document_8php.html#aebbb85b0adc465834787866f31885fc5", null ],
+    [ "llxHeader", "d6/d76/document_8php.html#ab7ec9104471f0796bace69aabf592852", null ],
+    [ "$accessallowed", "d6/d76/document_8php.html#a5414ac602788975e6bc831498fa10321", null ],
+    [ "$action", "d6/d76/document_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$attachment", "d6/d76/document_8php.html#adc887c95e074c9fa2ec0b9a1668ea979", null ],
+    [ "$check_access", "d6/d76/document_8php.html#aa7cca270ec99bf37667fc0e74d8695db", null ],
+    [ "$encoding", "d6/d76/document_8php.html#aee271b7ce67fbe00b9976e6c347cbfbf", null ],
+    [ "$entity", "d6/d76/document_8php.html#a74ed34e6d7bc9f3f8c4fb58a12247ee2", null ],
+    [ "$filename", "d6/d76/document_8php.html#a0722441477f957078ee2437054556cbc", null ],
+    [ "$fullpath_original_file", "d6/d76/document_8php.html#a224231cf7829de3728d4e9c91e8bee43", null ],
+    [ "$fullpath_original_file_osencoded", "d6/d76/document_8php.html#a45c55dd8b05430408b64d146e1a2e6ff", null ],
+    [ "$hashp", "d6/d76/document_8php.html#a3e7c35d126b1dff01dd4129d3bff7b59", null ],
+    [ "$modulepart", "d6/d76/document_8php.html#a942662df27f968dcf72caf953a6bf245", null ],
+    [ "$original_file", "d6/d76/document_8php.html#a88237928e172e5dfcb9bf1a39f60239a", null ],
+    [ "$parameters", "d6/d76/document_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$readfile", "d6/d76/document_8php.html#ac3a4d95b0bc4dbe80bf9b3a4de8cb007", null ],
+    [ "$refname", "d6/d76/document_8php.html#ad8f8359276733e5931580a3a25d9e4cb", null ],
+    [ "$reshook", "d6/d76/document_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$socid", "d6/d76/document_8php.html#a9659471b36c8ac5a443761225dd24fcb", null ],
+    [ "$sqlprotectagainstexternals", "d6/d76/document_8php.html#a43e7d229f8f4666528af6f0ae48e3db9", null ],
+    [ "$type", "d6/d76/document_8php.html#ae6fae27669a43133cb4170c6e3b4c4db", null ],
+    [ "$urlsource", "d6/d76/document_8php.html#a697038f05f572f1c99831859e7556fb4", null ],
+    [ "else", "d6/d76/document_8php.html#a0d5a9f7c193d44f9569e3dd18172a17d", null ]
+];

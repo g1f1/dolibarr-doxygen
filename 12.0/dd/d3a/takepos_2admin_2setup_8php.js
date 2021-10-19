@@ -1,0 +1,27 @@
+var takepos_2admin_2setup_8php =
+[
+    [ "$_SERVER", "dd/d3a/takepos_2admin_2setup_8php.html#abe8d29474933e77bb113aa319b909f85", null ],
+    [ "$action", "dd/d3a/takepos_2admin_2setup_8php.html#a1f8d95c90ec5a017621fe23b6de7315a", null ],
+    [ "$array", "dd/d3a/takepos_2admin_2setup_8php.html#ac1361b8d873c1f927b21b809f99e5752", null ],
+    [ "$arrayofmessagename", "dd/d3a/takepos_2admin_2setup_8php.html#a2968d412195ab4fad68d52edeeb47157", null ],
+    [ "$db", "dd/d3a/takepos_2admin_2setup_8php.html#a907d78797a1b764e913b0c565a5097b0", null ],
+    [ "$dirmodels", "dd/d3a/takepos_2admin_2setup_8php.html#a258e275c12848e432846f775d3ae98be", null ],
+    [ "$error", "dd/d3a/takepos_2admin_2setup_8php.html#aeba2ab722cedda53dbb7ec1a59f45550", null ],
+    [ "$form", "dd/d3a/takepos_2admin_2setup_8php.html#a73c39ebfdecfacfad0e0a79ad734698c", null ],
+    [ "$formmail", "dd/d3a/takepos_2admin_2setup_8php.html#a1d5a1ffb519cce85e07419080f94171c", null ],
+    [ "$formproduct", "dd/d3a/takepos_2admin_2setup_8php.html#a29190911e7b0a5edbaa3a461c0a72a65", null ],
+    [ "$head", "dd/d3a/takepos_2admin_2setup_8php.html#a687ea7fcd78263867b5bd34ed56b6379", null ],
+    [ "$htmltext", "dd/d3a/takepos_2admin_2setup_8php.html#a565e87f9cd4960c68f2d725619c211eb", null ],
+    [ "$linkback", "dd/d3a/takepos_2admin_2setup_8php.html#aa8a538bac04922850b15c7460fb1bfc7", null ],
+    [ "$mysoc", "dd/d3a/takepos_2admin_2setup_8php.html#ae78734363079600a4c1b2e04fe67fe10", null ],
+    [ "$nboftemplates", "dd/d3a/takepos_2admin_2setup_8php.html#a23550f6a288ef70452f47d73bdb0029d", null ],
+    [ "$now", "dd/d3a/takepos_2admin_2setup_8php.html#af1d5ccdee975b8f4d20aaffc5b28557c", null ],
+    [ "$paiements", "dd/d3a/takepos_2admin_2setup_8php.html#a01c1391794d1d07e40e94cc64f67804c", null ],
+    [ "$prod", "dd/d3a/takepos_2admin_2setup_8php.html#a2f4435c83b687b2c95ec10eeb09bf836", null ],
+    [ "$resql", "dd/d3a/takepos_2admin_2setup_8php.html#a6adc5ef389ab51c21dee69262018d615", null ],
+    [ "$sql", "dd/d3a/takepos_2admin_2setup_8php.html#a047170d6020a882807665812a27e2525", null ],
+    [ "$substitutionarray", "dd/d3a/takepos_2admin_2setup_8php.html#a22612c03c6f0da49ac4dfe32d8f40fe5", null ],
+    [ "$substitutionarray", "dd/d3a/takepos_2admin_2setup_8php.html#aac9f1fb57a689538f2e18c2dfdd91655", null ],
+    [ "n", "dd/d3a/takepos_2admin_2setup_8php.html#aeec9b058ac41eaa90214e43a4ff77a13", null ],
+    [ "print", "dd/d3a/takepos_2admin_2setup_8php.html#a1c57db6d3be84f21614b34b836cdbfeb", null ]
+];

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d9c/class_mailing_targets.html" title="Parent class of emailing target selectors modules." alt="" coords="5,245,112,272"/>
+<area shape="rect" id="node2" href="$d1/d74/classmailing__advthirdparties.html" title="Class to manage a list of personalised recipients for mailing feature." alt="" coords="160,5,315,32"/>
+<area shape="rect" id="node3" href="$df/d2a/classmailing__contacts1.html" title="Class to offer a selector of emailing targets from contacts." alt="" coords="174,56,301,83"/>
+<area shape="rect" id="node4" href="$d9/d54/classmailing__example.html" title="Class to manage a list of personalised recipients for mailing feature." alt="" coords="178,107,297,133"/>
+<area shape="rect" id="node5" href="$d2/d98/classmailing__fraise.html" title="Class to generate target according to rule Fraise." alt="" coords="186,157,289,184"/>
+<area shape="rect" id="node6" href="$db/d47/classmailing__mailinglist__mymodule__myobject.html" title="mailing_mailinglist_mymodule" alt="" coords="164,209,311,250"/>
+<area shape="rect" id="node7" href="$d9/dd6/classmailing__pomme.html" title="Class to offer a selector of emailing targets with Rule &#39;Peche&#39;." alt="" coords="181,275,294,301"/>
+<area shape="rect" id="node8" href="$d4/d4b/classmailing__thirdparties.html" title="Class to manage a list of personalised recipients for mailing feature." alt="" coords="170,325,305,352"/>
+<area shape="rect" id="node9" href="$d7/de7/classmailing__thirdparties__services__expired.html" title="Class to offer a selector of emailing targets with Rule &#39;services expired&#39;." alt="" coords="170,377,305,418"/>
+<area shape="rect" id="node10" href="$d0/d50/classmailing__xinputfile.html" title="Class to offer a selector of emailing targets with Rule &#39;xinputfile&#39;." alt="" coords="177,443,297,469"/>
+<area shape="rect" id="node11" href="$d3/dff/classmailing__xinputuser.html" title="Class to offer a selector of emailing targets with Rule &#39;xinputuser&#39;." alt="" coords="173,493,302,520"/>
+</map>

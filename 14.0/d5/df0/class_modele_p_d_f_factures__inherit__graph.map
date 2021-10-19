@@ -1,0 +1,7 @@
+<map id="ModelePDFFactures" name="ModelePDFFactures">
+<area shape="rect" id="node1" title="Parent class of invoice document generators." alt="" coords="164,80,305,107"/>
+<area shape="rect" id="node3" href="$d1/daf/classdoc__generic__invoice__odt.html" title="Class to build documents using ODF templates generator." alt="" coords="5,155,171,181"/>
+<area shape="rect" id="node4" href="$d0/d4a/classpdf__crabe.html" title="Class to generate the customer invoice PDF with template Crabe." alt="" coords="195,155,274,181"/>
+<area shape="rect" id="node5" href="$da/d6e/classpdf__sponge.html" title="Class to manage PDF invoice template sponge." alt="" coords="298,155,387,181"/>
+<area shape="rect" id="node2" href="$d8/d6e/class_common_doc_generator.html" title="Parent class for documents generators." alt="" coords="157,5,312,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ExpenseReportIk" name="ExpenseReportIk">
+<area shape="rect" id="node1" title="Class to manage inventories." alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node2" href="$d7/d3c/class_core_object.html" title="CoreObject." alt="" coords="22,80,109,107"/>
+<area shape="rect" id="node3" href="$db/d09/class_common_object.html" title="Parent class of all other business classes (invoices, contracts, proposals, orders,..." alt="" coords="9,5,121,32"/>
+</map>

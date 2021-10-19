@@ -1,0 +1,27 @@
+var group__tax =
+[
+    [ "taxes.php", "d4/d4b/taxes_8php.html", null ],
+    [ "card.php", "d3/dda/compta_2localtax_2card_8php.html", null ],
+    [ "localtax.class.php", "d5/d1a/localtax_8class_8php.html", null ],
+    [ "clients.php", "d6/d09/localtax_2clients_8php.html", null ],
+    [ "index.php", "df/d74/compta_2localtax_2index_8php.html", null ],
+    [ "list.php", "d3/db0/compta_2localtax_2list_8php.html", null ],
+    [ "quadri_detail.php", "d9/dff/tva_2quadri__detail_8php.html", null ],
+    [ "paiement_charge.php", "d3/d86/paiement__charge_8php.html", null ],
+    [ "card.php", "d9/d57/compta_2sociales_2card_8php.html", null ],
+    [ "cchargesociales.class.php", "d6/d5a/cchargesociales_8class_8php.html", null ],
+    [ "document.php", "dc/dd9/compta_2sociales_2document_8php.html", null ],
+    [ "info.php", "d2/db1/compta_2sociales_2info_8php.html", null ],
+    [ "list.php", "db/dc7/compta_2sociales_2list_8php.html", null ],
+    [ "card.php", "d8/d5c/compta_2tva_2card_8php.html", null ],
+    [ "tva.class.php", "df/da1/tva_8class_8php.html", null ],
+    [ "clients.php", "d9/d31/tva_2clients_8php.html", null ],
+    [ "document.php", "dc/d27/compta_2tva_2document_8php.html", null ],
+    [ "index.php", "d6/dd1/compta_2tva_2index_8php.html", null ],
+    [ "info.php", "d7/d89/compta_2tva_2info_8php.html", null ],
+    [ "list.php", "da/d18/compta_2tva_2list_8php.html", null ],
+    [ "quadri_detail.php", "d9/dff/tva_2quadri__detail_8php.html", null ],
+    [ "tax.lib.php", "db/de3/tax_8lib_8php.html", null ],
+    [ "vat.lib.php", "d3/d1b/vat_8lib_8php.html", null ],
+    [ "modTax.class.php", "d6/d95/mod_tax_8class_8php.html", null ]
+];

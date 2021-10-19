@@ -1,0 +1,28 @@
+var mails__ticket_8php =
+[
+    [ "$action", "d0/d52/mails__ticket_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$actiontypecode", "d0/d52/mails__ticket_8php.html#a81d19c4e482d50647f6adb60f5e5bd58", null ],
+    [ "$cancel", "d0/d52/mails__ticket_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$form", "d0/d52/mails__ticket_8php.html#af4bc03d4b12fc26366b1afb0127a898d", null ],
+    [ "$head", "d0/d52/mails__ticket_8php.html#a687ea7fcd78263867b5bd34ed56b6379", null ],
+    [ "$id", "d0/d52/mails__ticket_8php.html#a63fed5dd20b3bf3c3e0c8e752273c1fe", null ],
+    [ "$linuxlike", "d0/d52/mails__ticket_8php.html#a1c563960e0d288f6c9104811f01a610a", null ],
+    [ "$listofmethods", "d0/d52/mails__ticket_8php.html#afcaf4d679b1d806f0a53e9f136dfa923", null ],
+    [ "$listofmethods", "d0/d52/mails__ticket_8php.html#a2b2dcca62329b2d49e29d9498ca55b6d", null ],
+    [ "$listofmethods", "d0/d52/mails__ticket_8php.html#add81f7ee7374b2a90ca5b039f39b0143", null ],
+    [ "$listofmethods", "d0/d52/mails__ticket_8php.html#a79e5023917ddfa034ba4501d82e5ce8f", null ],
+    [ "$mode", "d0/d52/mails__ticket_8php.html#a3aaf40baac36e278c7d7c9139df1750c", null ],
+    [ "$paramname", "d0/d52/mails__ticket_8php.html#af26d3b37bd1e4d6b6016181a87752f13", null ],
+    [ "$port", "d0/d52/mails__ticket_8php.html#ae18a4d29b13ab278d3e0fc0103ef7e6e", null ],
+    [ "$sendcontext", "d0/d52/mails__ticket_8php.html#af080f9b1c1a5bed183da203d7975c9c5", null ],
+    [ "$server", "d0/d52/mails__ticket_8php.html#aae391b4c4a06256a0f2108db1fdef3de", null ],
+    [ "$substitutionarrayfortest", "d0/d52/mails__ticket_8php.html#ac961417f8ce6b16a65311ea1f9600eac", null ],
+    [ "$text", "d0/d52/mails__ticket_8php.html#ac3afbc84e6b48a49ab982251c0ebbdbc", null ],
+    [ "$trackid", "d0/d52/mails__ticket_8php.html#abf31c9241b276772bf96f5d9c87f7f21", null ],
+    [ "$triggersendname", "d0/d52/mails__ticket_8php.html#a13e19e5fcceb6ad409a31e18e12157fb", null ],
+    [ "$usersignature", "d0/d52/mails__ticket_8php.html#a28582ee4b95afac99d4736fecf90e1e2", null ],
+    [ "$wikihelp", "d0/d52/mails__ticket_8php.html#a0ab650a04010f2040f4894293786e13e", null ],
+    [ "else", "d0/d52/mails__ticket_8php.html#a4af07e83c18e50d1391df59336a606ba", null ],
+    [ "n", "d0/d52/mails__ticket_8php.html#aba7d1efde8338094afdef133aaab24e0", null ],
+    [ "print", "d0/d52/mails__ticket_8php.html#a490f7b8f54044ecf22768132a37f3083", null ]
+];

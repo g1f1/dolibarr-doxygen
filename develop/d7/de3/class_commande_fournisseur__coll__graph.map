@@ -1,0 +1,6 @@
+<map id="CommandeFournisseur" name="CommandeFournisseur">
+<area shape="rect" id="node1" title="Class to manage predefined suppliers products." alt="" coords="35,332,191,359"/>
+<area shape="rect" id="node2" href="$d0/dd0/class_common_order.html" title="Superclass for orders classes." alt="" coords="8,81,115,108"/>
+<area shape="rect" id="node3" href="$db/d09/class_common_object.html" title="Parent class of all other business classes (invoices, contracts, proposals, orders,..." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="139,81,194,108"/>
+</map>

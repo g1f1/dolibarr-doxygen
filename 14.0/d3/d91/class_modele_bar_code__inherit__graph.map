@@ -1,0 +1,5 @@
+<map id="ModeleBarCode" name="ModeleBarCode">
+<area shape="rect" id="node1" title="Parent class for barcode document models." alt="" coords="78,5,193,32"/>
+<area shape="rect" id="node2" href="$d5/ddc/classmod_phpbarcode.html" title="Class to generate barcode images using php barcode generator." alt="" coords="5,80,121,107"/>
+<area shape="rect" id="node3" href="$dd/ddb/classmod_tcpdfbarcode.html" title="Class to generate barcode images using tcpdf barcode generator." alt="" coords="145,80,272,107"/>
+</map>

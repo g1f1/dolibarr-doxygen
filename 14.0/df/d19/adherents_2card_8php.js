@@ -1,0 +1,28 @@
+var adherents_2card_8php =
+[
+    [ "$action", "df/d19/adherents_2card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "df/d19/adherents_2card_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$canaddmember", "df/d19/adherents_2card_8php.html#adb8751a0d2b20e5bc7728866db2bdc27", null ],
+    [ "$cancel", "df/d19/adherents_2card_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$canvas", "df/d19/adherents_2card_8php.html#a790861ce3a5090b0c482f5c651efaaa4", null ],
+    [ "$confirm", "df/d19/adherents_2card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$countrynotdefined", "df/d19/adherents_2card_8php.html#a9729ba9f4d0d8efbdc6b53cc03b7e2f2", null ],
+    [ "$extrafields", "df/d19/adherents_2card_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "df/d19/adherents_2card_8php.html#ac3864240f8455567d3722d7e7d198b28", null ],
+    [ "$formcompany", "df/d19/adherents_2card_8php.html#a82731d245549bc3a57ceb01309d8972d", null ],
+    [ "$formfile", "df/d19/adherents_2card_8php.html#a2452015d72b8956547b810d5c34b7095", null ],
+    [ "$help_url", "df/d19/adherents_2card_8php.html#a455e983ac152d2c101860a4845fa6417", null ],
+    [ "$id", "df/d19/adherents_2card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$objcanvas", "df/d19/adherents_2card_8php.html#a3e1fcc9d10a89006bcf5854bc7027bc5", null ],
+    [ "$object", "df/d19/adherents_2card_8php.html#a8376fa740f25cb1d51c9e67b34437e1d", null ],
+    [ "$parameters", "df/d19/adherents_2card_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$reshook", "df/d19/adherents_2card_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$result", "df/d19/adherents_2card_8php.html#a46041bbe5fbc972bc7ba0fa7a3ebc241", null ],
+    [ "$rowid", "df/d19/adherents_2card_8php.html#aea0f842c6eee8319cfba3c3398f3f8a2", null ],
+    [ "$socialnetworks", "df/d19/adherents_2card_8php.html#a37b7c0805c5b8dfbc8a3d2064bc2d753", null ],
+    [ "$socid", "df/d19/adherents_2card_8php.html#a1ccabbd49ff70c13c94e688a08ecb9e8", null ],
+    [ "$title", "df/d19/adherents_2card_8php.html#ada57e7bb7c152edad18fe2f166188691", null ],
+    [ "$typeid", "df/d19/adherents_2card_8php.html#a191afd6c80f3f9e567792c00b3d3b52e", null ],
+    [ "$userid", "df/d19/adherents_2card_8php.html#ae3f4f74a2aff9863a4767269a47aea11", null ],
+    [ "else", "df/d19/adherents_2card_8php.html#a7860009b2104eb9740dc199b6dba81f2", null ]
+];

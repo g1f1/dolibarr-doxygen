@@ -1,0 +1,28 @@
+var inventory_8php =
+[
+    [ "$action", "d0/dd4/inventory_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "d0/dd4/inventory_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$batch", "d0/dd4/inventory_8php.html#a8dcc79b6d6f098ffd8ac189b35e7e784", null ],
+    [ "$cancel", "d0/dd4/inventory_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$confirm", "d0/dd4/inventory_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$contextpage", "d0/dd4/inventory_8php.html#abd7712f76ebb28149faba45ef377e173", null ],
+    [ "$diroutputmassaction", "d0/dd4/inventory_8php.html#a794201557d3bb3b36e14f5314a39b674", null ],
+    [ "$extrafields", "d0/dd4/inventory_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$fk_product", "d0/dd4/inventory_8php.html#ae1391308dce67429a1dccc9cd0c299be", null ],
+    [ "$fk_warehouse", "d0/dd4/inventory_8php.html#a341406be827f3fd7427a027e81293070", null ],
+    [ "$form", "d0/dd4/inventory_8php.html#ab3128353215dd75c53697076a7cf1a66", null ],
+    [ "$formproduct", "d0/dd4/inventory_8php.html#a29190911e7b0a5edbaa3a461c0a72a65", null ],
+    [ "$id", "d0/dd4/inventory_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$lineid", "d0/dd4/inventory_8php.html#ac13028694ebc1afe8eb4738777e32144", null ],
+    [ "$now", "d0/dd4/inventory_8php.html#af1d5ccdee975b8f4d20aaffc5b28557c", null ],
+    [ "$object", "d0/dd4/inventory_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$parameters", "d0/dd4/inventory_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$permissiontodelete", "d0/dd4/inventory_8php.html#ac9fc376280286717a85e44f62a3fb5ae", null ],
+    [ "$ref", "d0/dd4/inventory_8php.html#af63b439d0c69c1a6e9c2d1b9a4f4af9e", null ],
+    [ "$reshook", "d0/dd4/inventory_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$search", "d0/dd4/inventory_8php.html#ae549977dd05a017aa81372f6994bf955", null ],
+    [ "$search_all", "d0/dd4/inventory_8php.html#a6bd4f3a71bf800d6d634f01d7fe2acf1", null ],
+    [ "$search_array_options", "d0/dd4/inventory_8php.html#a9db46c52180be765f6322b1d9f2a5612", null ],
+    [ "else", "d0/dd4/inventory_8php.html#a6378e8498db0e8a86e6d3668a42d5716", null ],
+    [ "print", "d0/dd4/inventory_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4", null ]
+];

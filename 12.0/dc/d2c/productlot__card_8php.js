@@ -1,0 +1,27 @@
+var productlot__card_8php =
+[
+    [ "$action", "dc/d2c/productlot__card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "dc/d2c/productlot__card_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$batch", "dc/d2c/productlot__card_8php.html#a8dcc79b6d6f098ffd8ac189b35e7e784", null ],
+    [ "$extrafields", "dc/d2c/productlot__card_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "dc/d2c/productlot__card_8php.html#a1a4fda4c28a9ee5f91102c023b9501f4", null ],
+    [ "$formfile", "dc/d2c/productlot__card_8php.html#a2452015d72b8956547b810d5c34b7095", null ],
+    [ "$id", "dc/d2c/productlot__card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$object", "dc/d2c/productlot__card_8php.html#aeb52913082b8d2d0e0adb0fc00b72116", null ],
+    [ "$parameters", "dc/d2c/productlot__card_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$permissiondellink", "dc/d2c/productlot__card_8php.html#ab5ea47cd1cfd468e97ec8e2754860bd3", null ],
+    [ "$permissionnote", "dc/d2c/productlot__card_8php.html#a4f72bb2f0b3c02e7a9d3adbf96feae3e", null ],
+    [ "$permissiontoadd", "dc/d2c/productlot__card_8php.html#a32c63829a8716ce8ddfc8698e2a5ed47", null ],
+    [ "$productid", "dc/d2c/productlot__card_8php.html#a21a3d0f0d8c9136d04e2dfb9dccc345e", null ],
+    [ "$ref", "dc/d2c/productlot__card_8php.html#af63b439d0c69c1a6e9c2d1b9a4f4af9e", null ],
+    [ "$reshook", "dc/d2c/productlot__card_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$search_batch", "dc/d2c/productlot__card_8php.html#aa5291337d795a24a81ee5f30229c57fd", null ],
+    [ "$search_entity", "dc/d2c/productlot__card_8php.html#a86e5ede562b0b4e2d265254862cfab4b", null ],
+    [ "$search_fk_product", "dc/d2c/productlot__card_8php.html#a3bedaae987ec9bc6a0bb5f3dfc2251a9", null ],
+    [ "$search_fk_user_creat", "dc/d2c/productlot__card_8php.html#a150a945fa35c778775e3faab78a4295f", null ],
+    [ "$search_fk_user_modif", "dc/d2c/productlot__card_8php.html#aba55cb666e95baa26747fe0391ff6a74", null ],
+    [ "$search_import_key", "dc/d2c/productlot__card_8php.html#aa33faae6efd211795d09ae8745adf998", null ],
+    [ "$usercancreate", "dc/d2c/productlot__card_8php.html#a0f6dfd6ea7db1a91c7f6f0b46a1777cf", null ],
+    [ "$usercandelete", "dc/d2c/productlot__card_8php.html#a7310bb1520609e8ba73727f461648313", null ],
+    [ "$usercanread", "dc/d2c/productlot__card_8php.html#ae9cb594fc86f50a6f7dce0f4c2f37893", null ]
+];

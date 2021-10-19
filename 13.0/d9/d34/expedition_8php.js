@@ -1,0 +1,26 @@
+var expedition_8php =
+[
+    [ "$_SERVER", "d9/d34/expedition_8php.html#abe8d29474933e77bb113aa319b909f85", null ],
+    [ "$action", "d9/d34/expedition_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$def", "d9/d34/expedition_8php.html#a9f8f890e2d5fb4b002a11db42621b997", null ],
+    [ "$dirmodels", "d9/d34/expedition_8php.html#ae9c1e0cbdaf4f269630f34ba8f0e0b11", null ],
+    [ "$doleditor", "d9/d34/expedition_8php.html#a62b05a13b7e61fb321d47582f4b6dfc3", null ],
+    [ "$form", "d9/d34/expedition_8php.html#a1a4fda4c28a9ee5f91102c023b9501f4", null ],
+    [ "$head", "d9/d34/expedition_8php.html#a687ea7fcd78263867b5bd34ed56b6379", null ],
+    [ "$htmltext", "d9/d34/expedition_8php.html#a565e87f9cd4960c68f2d725619c211eb", null ],
+    [ "$label", "d9/d34/expedition_8php.html#a177af2bf70bede02de3d05a425fb8e43", null ],
+    [ "$linkback", "d9/d34/expedition_8php.html#aa8a538bac04922850b15c7460fb1bfc7", null ],
+    [ "$resql", "d9/d34/expedition_8php.html#a6adc5ef389ab51c21dee69262018d615", null ],
+    [ "$scandir", "d9/d34/expedition_8php.html#af8740e47a115ee055d40254054b37978", null ],
+    [ "$sql", "d9/d34/expedition_8php.html#a047170d6020a882807665812a27e2525", null ],
+    [ "$substitutionarray", "d9/d34/expedition_8php.html#aac9f1fb57a689538f2e18c2dfdd91655", null ],
+    [ "$substitutionarray", "d9/d34/expedition_8php.html#a1ec021c3794dd73d16ea73eae1f6636c", null ],
+    [ "$type", "d9/d34/expedition_8php.html#a9a4a6fba2208984cabb3afacadf33919", null ],
+    [ "$value", "d9/d34/expedition_8php.html#a0f298096f322952a72a50f98a74c7b60", null ],
+    [ "$variablename", "d9/d34/expedition_8php.html#af8c42dcf96c4d678e0308e8ccdd59105", null ],
+    [ "else", "d9/d34/expedition_8php.html#a0afdc7ef6ad34310741810663bf56034", null ],
+    [ "if", "d9/d34/expedition_8php.html#a1f0fbd221481a988e1a45d176e6cc5de", null ],
+    [ "n", "d9/d34/expedition_8php.html#a816e683e60b3e0aa5239a28e7b52c401", null ],
+    [ "print", "d9/d34/expedition_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4", null ],
+    [ "SHIPPING_DRAFT_WATERMARK", "d9/d34/expedition_8php.html#aa77faecb06d82d7f9dccb2cefc02862d", null ]
+];

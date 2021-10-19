@@ -1,0 +1,27 @@
+var classpdf__standard__myobject =
+[
+    [ "__construct", "df/dd0/classpdf__standard__myobject.html#a800f8efee13692788b13ee57c5960092", null ],
+    [ "_pagefoot", "df/dd0/classpdf__standard__myobject.html#a1cca943c016106a9b8cec0101418d757", null ],
+    [ "_pagehead", "df/dd0/classpdf__standard__myobject.html#a3a3bda8237391b13379a1ee6c308384a", null ],
+    [ "_tableau", "df/dd0/classpdf__standard__myobject.html#ae6b6d9875935462680197f3222bbf0f9", null ],
+    [ "defineColumnField", "df/dd0/classpdf__standard__myobject.html#aeb62863fdfc922a1ea11506c0b68a557", null ],
+    [ "liste_modeles", "df/dd0/classpdf__standard__myobject.html#ab091d393858293c656255616c8baed54", null ],
+    [ "write_file", "df/dd0/classpdf__standard__myobject.html#a603772e82eee872b8e05b0b0f4ba85bd", null ],
+    [ "$cols", "df/dd0/classpdf__standard__myobject.html#aa0acedd535e0b46a4fffc4b147d3f545", null ],
+    [ "$db", "df/dd0/classpdf__standard__myobject.html#a1fa3127fc82f96b1436d871ef02be319", null ],
+    [ "$description", "df/dd0/classpdf__standard__myobject.html#a87b032cba06009e3467abf1c8018d960", null ],
+    [ "$emetteur", "df/dd0/classpdf__standard__myobject.html#a2daf8f50687abe8df8655a3aa4a4e1f5", null ],
+    [ "$format", "df/dd0/classpdf__standard__myobject.html#a1e6e4ea377a908a5407c435e9054e3a9", null ],
+    [ "$marge_basse", "df/dd0/classpdf__standard__myobject.html#acaf19b0fc59efea4b04c831fcbe749e5", null ],
+    [ "$marge_droite", "df/dd0/classpdf__standard__myobject.html#ac6c8c697f2e2352b8afeeaf00ceeeecc", null ],
+    [ "$marge_gauche", "df/dd0/classpdf__standard__myobject.html#a537361daac121ff2ffb5e4152135ba57", null ],
+    [ "$marge_haute", "df/dd0/classpdf__standard__myobject.html#abbc5f4d1e4e1bbc03381920d7b7def64", null ],
+    [ "$name", "df/dd0/classpdf__standard__myobject.html#ab2fc40d43824ea3e1ce5d86dee0d763b", null ],
+    [ "$page_hauteur", "df/dd0/classpdf__standard__myobject.html#a1b813f9a318e33861c279eb1ca64ffe9", null ],
+    [ "$page_largeur", "df/dd0/classpdf__standard__myobject.html#a4c3e350b98c940a5b9b8cc5f3fd8d12f", null ],
+    [ "$phpmin", "df/dd0/classpdf__standard__myobject.html#a5e0594b62abec81703c8eccec7563cc6", null ],
+    [ "$situationinvoice", "df/dd0/classpdf__standard__myobject.html#a3f076abca0ea797075e88f1f83f8684b", null ],
+    [ "$type", "df/dd0/classpdf__standard__myobject.html#a9a4a6fba2208984cabb3afacadf33919", null ],
+    [ "$update_main_doc_field", "df/dd0/classpdf__standard__myobject.html#a833c9a2b0c70348bd0d4d2c2a4c23d5b", null ],
+    [ "$version", "df/dd0/classpdf__standard__myobject.html#a17c8948c68aa44fa9961ae169b6a8961", null ]
+];

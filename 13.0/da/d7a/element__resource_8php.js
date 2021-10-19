@@ -1,0 +1,26 @@
+var element__resource_8php =
+[
+    [ "$action", "da/d7a/element__resource_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$busy", "da/d7a/element__resource_8php.html#a480d307fe8ce00c3eadab5b147f925a9", null ],
+    [ "$cancel", "da/d7a/element__resource_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$confirm", "da/d7a/element__resource_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$element", "da/d7a/element__resource_8php.html#a479e9a5e4ded6cebc5be769c29e95893", null ],
+    [ "$element_id", "da/d7a/element__resource_8php.html#a19b178fb62ce807d0a99dc7603559f72", null ],
+    [ "$element_ref", "da/d7a/element__resource_8php.html#ac1bd75428812d474605c38ad2aed2fbe", null ],
+    [ "$form", "da/d7a/element__resource_8php.html#a1a4fda4c28a9ee5f91102c023b9501f4", null ],
+    [ "$id", "da/d7a/element__resource_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$lineid", "da/d7a/element__resource_8php.html#ac13028694ebc1afe8eb4738777e32144", null ],
+    [ "$mandatory", "da/d7a/element__resource_8php.html#ae0e4c348246ad04f0991c43bf8f6fd57", null ],
+    [ "$mode", "da/d7a/element__resource_8php.html#a3aaf40baac36e278c7d7c9139df1750c", null ],
+    [ "$object", "da/d7a/element__resource_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$pagetitle", "da/d7a/element__resource_8php.html#af2582e2f620e4157097929da5cc0ed18", null ],
+    [ "$parameters", "da/d7a/element__resource_8php.html#ab4b6ad2cc89ef1d246e2275d81c2bb83", null ],
+    [ "$reshook", "da/d7a/element__resource_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$resource_id", "da/d7a/element__resource_8php.html#aa45e17a8afdaf8baa571793ebcfdbdca", null ],
+    [ "$resource_type", "da/d7a/element__resource_8php.html#aab0fa7f0ab9d049f4a39128d01297101", null ],
+    [ "$ret", "da/d7a/element__resource_8php.html#affd9e3eb0aad0a7ca42912cd925f148c", null ],
+    [ "$socid", "da/d7a/element__resource_8php.html#a1ccabbd49ff70c13c94e688a08ecb9e8", null ],
+    [ "available_resources", "da/d7a/element__resource_8php.html#aa1739b4d24dfef83b2af847aca597f45", null ],
+    [ "else", "da/d7a/element__resource_8php.html#a4004a4b80e723777539a3be128d86d9b", null ],
+    [ "print", "da/d7a/element__resource_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4", null ]
+];

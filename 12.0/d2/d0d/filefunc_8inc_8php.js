@@ -1,0 +1,27 @@
+var filefunc_8inc_8php =
+[
+    [ "$concatpath", "d2/d0d/filefunc_8inc_8php.html#a3724e5033f5340337349f83f5e4c2bfa", null ],
+    [ "$conffile", "d2/d0d/filefunc_8inc_8php.html#a97d50fe1534423a8ebbb651479e29895", null ],
+    [ "$conffiletoshow", "d2/d0d/filefunc_8inc_8php.html#a015521f70d100b17547e5f98c9c0631b", null ],
+    [ "$conffiletoshowshort", "d2/d0d/filefunc_8inc_8php.html#a2a9e9957ac372c79249d01814a672f71", null ],
+    [ "$dolibarr_main_data_root", "d2/d0d/filefunc_8inc_8php.html#ac6f67400cb47150b2c106fc1092f7e56", null ],
+    [ "$dolibarr_main_document_root", "d2/d0d/filefunc_8inc_8php.html#a7443d526d0ffc05b6e2cd4873e3723dd", null ],
+    [ "$dolibarr_main_document_root_alt", "d2/d0d/filefunc_8inc_8php.html#af5dd7b01362210897767181c18ed93ed", null ],
+    [ "$dolibarr_main_url_root", "d2/d0d/filefunc_8inc_8php.html#aee036ddc68f19586f25cfb7904d36699", null ],
+    [ "$dolibarr_main_url_root_alt", "d2/d0d/filefunc_8inc_8php.html#a20aea593ac609a2503b1013b783dc5dc", null ],
+    [ "$found", "d2/d0d/filefunc_8inc_8php.html#a19655ecca257a134034e17d5bedc0f75", null ],
+    [ "$paths", "d2/d0d/filefunc_8inc_8php.html#a20dd412769e0754189f5ce036e857a37", null ],
+    [ "$real_dolibarr_main_document_root", "d2/d0d/filefunc_8inc_8php.html#a56336466f9bbcc3b0b0bfc82c4901d25", null ],
+    [ "$result", "d2/d0d/filefunc_8inc_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$suburi", "d2/d0d/filefunc_8inc_8php.html#a1f37a80fb6a39da1356fcca7792d82c6", null ],
+    [ "$tmp", "d2/d0d/filefunc_8inc_8php.html#ab639b1b08b1a4cfaf20db7328ea9ffa6", null ],
+    [ "$uri", "d2/d0d/filefunc_8inc_8php.html#a653b5458163d338546c47271b4fb81b7", null ],
+    [ "DOL_CLASS_PATH", "d2/d0d/filefunc_8inc_8php.html#afaa63cf137a55bf98ba9701ced59d467", null ],
+    [ "DOL_DATA_ROOT", "d2/d0d/filefunc_8inc_8php.html#a7cc2635cccf775961daaa38d139be39e", null ],
+    [ "DOL_DOCUMENT_ROOT", "d2/d0d/filefunc_8inc_8php.html#ad995889358b7e6a4cdf522099fce6237", null ],
+    [ "DOL_MAIN_URL_ROOT", "d2/d0d/filefunc_8inc_8php.html#afbe83d2b0fbdd5e5ee15a2b553bb6580", null ],
+    [ "DOL_URL_ROOT", "d2/d0d/filefunc_8inc_8php.html#a5f1ac089a26627c2a54c92e2e08bb55e", null ],
+    [ "else", "d2/d0d/filefunc_8inc_8php.html#a25f2b83d5f193f58118f17b40cbd6b1e", null ],
+    [ "if", "d2/d0d/filefunc_8inc_8php.html#a92a318dec30a507caf23ef6e56a86c0a", null ],
+    [ "MAIN_DB_PREFIX", "d2/d0d/filefunc_8inc_8php.html#a44bcdaf3a12a8d841cf99f3910f661c1", null ]
+];

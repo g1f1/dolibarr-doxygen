@@ -1,0 +1,25 @@
+var class_intracomm_report =
+[
+    [ "__construct", "d2/d6c/class_intracomm_report.html#ae3c3f613b0d04ca9e5cc532933cd3920", null ],
+    [ "addItemFraisDePort", "d2/d6c/class_intracomm_report.html#a74b90d9f4145858b982aad85876303fe", null ],
+    [ "addItemsFact", "d2/d6c/class_intracomm_report.html#adcfb28197e93e3c84db01b23a6c71c8e", null ],
+    [ "addItemXMl", "d2/d6c/class_intracomm_report.html#a7950c9afef39fcb5718e622c3060ab0e", null ],
+    [ "addItemXMlDes", "d2/d6c/class_intracomm_report.html#ade3b36e9dde409078581699b01737ce1", null ],
+    [ "create", "d2/d6c/class_intracomm_report.html#a4c5738cd62948f2bbecefffaa1b91d08", null ],
+    [ "delete", "d2/d6c/class_intracomm_report.html#a9ebf1172f52ca70d6823b7e199392b16", null ],
+    [ "fetch", "d2/d6c/class_intracomm_report.html#aca60d7c39a5e48edd6ff6ee153a803a2", null ],
+    [ "generateXMLFile", "d2/d6c/class_intracomm_report.html#ae356146f5c1347dd7e947e8e1213d761", null ],
+    [ "getDeclarationNumber", "d2/d6c/class_intracomm_report.html#a173706752e861ac9436d0364d812b4c8", null ],
+    [ "getNextDeclarationNumber", "d2/d6c/class_intracomm_report.html#ac7c57ffd5df2e762e37555d4618ac448", null ],
+    [ "getSQLFactLines", "d2/d6c/class_intracomm_report.html#a21ac274ef5b9f34d6a758b639bb0325f", null ],
+    [ "getXML", "d2/d6c/class_intracomm_report.html#a566304b5023ca0d6c37328ded18272ac", null ],
+    [ "getXMLDes", "d2/d6c/class_intracomm_report.html#ac1614c1b0e69b55f2b95e7c4486f488e", null ],
+    [ "$declaration_number", "d2/d6c/class_intracomm_report.html#aa981be9c68f78201092841bb86719e86", null ],
+    [ "$element", "d2/d6c/class_intracomm_report.html#a479e9a5e4ded6cebc5be769c29e95893", null ],
+    [ "$fk_element", "d2/d6c/class_intracomm_report.html#ac3265e51e1c653a2d76e89c8c940f2f9", null ],
+    [ "$ismultientitymanaged", "d2/d6c/class_intracomm_report.html#a8c413a41a713b11a42fc567efed9637d", null ],
+    [ "$table_element", "d2/d6c/class_intracomm_report.html#a5b34e6ee472cb32351fbde70e46612fe", null ],
+    [ "$type", "d2/d6c/class_intracomm_report.html#a9a4a6fba2208984cabb3afacadf33919", null ],
+    [ "TYPE_DEB", "d2/d6c/class_intracomm_report.html#a30c730023453bf3711dfd839bda818ed", null ],
+    [ "TYPE_DES", "d2/d6c/class_intracomm_report.html#a810955a3a029b970b3656f6487c7a836", null ]
+];

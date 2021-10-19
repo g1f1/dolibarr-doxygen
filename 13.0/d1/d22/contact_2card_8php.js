@@ -1,0 +1,26 @@
+var contact_2card_8php =
+[
+    [ "$action", "d1/d22/contact_2card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "d1/d22/contact_2card_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$cancel", "d1/d22/contact_2card_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$canvas", "d1/d22/contact_2card_8php.html#a790861ce3a5090b0c482f5c651efaaa4", null ],
+    [ "$confirm", "d1/d22/contact_2card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$countrynotdefined", "d1/d22/contact_2card_8php.html#a9729ba9f4d0d8efbdc6b53cc03b7e2f2", null ],
+    [ "$error", "d1/d22/contact_2card_8php.html#aeba2ab722cedda53dbb7ec1a59f45550", null ],
+    [ "$errors", "d1/d22/contact_2card_8php.html#ab24faf4aa647cdcee494fc48524ad4ff", null ],
+    [ "$extrafields", "d1/d22/contact_2card_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "d1/d22/contact_2card_8php.html#a1a4fda4c28a9ee5f91102c023b9501f4", null ],
+    [ "$formcompany", "d1/d22/contact_2card_8php.html#a82731d245549bc3a57ceb01309d8972d", null ],
+    [ "$help_url", "d1/d22/contact_2card_8php.html#a455e983ac152d2c101860a4845fa6417", null ],
+    [ "$id", "d1/d22/contact_2card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$mesg", "d1/d22/contact_2card_8php.html#a0f74b0e6939110e59bea2767518800f6", null ],
+    [ "$objcanvas", "d1/d22/contact_2card_8php.html#a3e1fcc9d10a89006bcf5854bc7027bc5", null ],
+    [ "$object", "d1/d22/contact_2card_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$parameters", "d1/d22/contact_2card_8php.html#a0a55394776f8cda9433e7b9c1ee7bb9a", null ],
+    [ "$reshook", "d1/d22/contact_2card_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$result", "d1/d22/contact_2card_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$socialnetworks", "d1/d22/contact_2card_8php.html#a37b7c0805c5b8dfbc8a3d2064bc2d753", null ],
+    [ "$socid", "d1/d22/contact_2card_8php.html#a1ccabbd49ff70c13c94e688a08ecb9e8", null ],
+    [ "$title", "d1/d22/contact_2card_8php.html#a117a29f4af65b17acd23f51129bddba1", null ],
+    [ "else", "d1/d22/contact_2card_8php.html#ab98c7b43290e255b540618df7b1a841d", null ]
+];

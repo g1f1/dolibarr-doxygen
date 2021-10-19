@@ -1,0 +1,27 @@
+var emailcollector__card_8php =
+[
+    [ "$action", "db/d77/emailcollector__card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$backtopage", "db/d77/emailcollector__card_8php.html#a71552e61097747f0d8e8288daf9be44d", null ],
+    [ "$cancel", "db/d77/emailcollector__card_8php.html#af57e1ef52c7331ce2627601c2985260c", null ],
+    [ "$confirm", "db/d77/emailcollector__card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$contextpage", "db/d77/emailcollector__card_8php.html#abd7712f76ebb28149faba45ef377e173", null ],
+    [ "$debuginfo", "db/d77/emailcollector__card_8php.html#abdbf6904dc593d67907971d0aa55c0ad", null ],
+    [ "$diroutputmassaction", "db/d77/emailcollector__card_8php.html#a794201557d3bb3b36e14f5314a39b674", null ],
+    [ "$extrafields", "db/d77/emailcollector__card_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "db/d77/emailcollector__card_8php.html#aa5d465566079d3a9c4f5b2446eb03946", null ],
+    [ "$formfile", "db/d77/emailcollector__card_8php.html#a2452015d72b8956547b810d5c34b7095", null ],
+    [ "$help_url", "db/d77/emailcollector__card_8php.html#a455e983ac152d2c101860a4845fa6417", null ],
+    [ "$id", "db/d77/emailcollector__card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$object", "db/d77/emailcollector__card_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$operationid", "db/d77/emailcollector__card_8php.html#a1bf6234fd1f27080ab8d74c19f93d830", null ],
+    [ "$parameters", "db/d77/emailcollector__card_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$permissiondellink", "db/d77/emailcollector__card_8php.html#ab5ea47cd1cfd468e97ec8e2754860bd3", null ],
+    [ "$permissionnote", "db/d77/emailcollector__card_8php.html#a4f72bb2f0b3c02e7a9d3adbf96feae3e", null ],
+    [ "$permissiontoadd", "db/d77/emailcollector__card_8php.html#a32c63829a8716ce8ddfc8698e2a5ed47", null ],
+    [ "$ref", "db/d77/emailcollector__card_8php.html#af63b439d0c69c1a6e9c2d1b9a4f4af9e", null ],
+    [ "$reshook", "db/d77/emailcollector__card_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$search", "db/d77/emailcollector__card_8php.html#ae549977dd05a017aa81372f6994bf955", null ],
+    [ "$search_all", "db/d77/emailcollector__card_8php.html#a6bd4f3a71bf800d6d634f01d7fe2acf1", null ],
+    [ "$search_array_options", "db/d77/emailcollector__card_8php.html#a9db46c52180be765f6322b1d9f2a5612", null ],
+    [ "if", "db/d77/emailcollector__card_8php.html#a263c8067bd757d4dde968496b8119187", null ]
+];

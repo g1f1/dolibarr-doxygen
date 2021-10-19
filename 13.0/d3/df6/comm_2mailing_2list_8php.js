@@ -1,0 +1,26 @@
+var comm_2mailing_2list_8php =
+[
+    [ "$extrafields", "d3/df6/comm_2mailing_2list_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$fieldstosearchall", "d3/df6/comm_2mailing_2list_8php.html#a70e3956653e459060d2a8c7ef784cda2", null ],
+    [ "$filteremail", "d3/df6/comm_2mailing_2list_8php.html#a196f2edc706e75330c1223968da75c71", null ],
+    [ "$form", "d3/df6/comm_2mailing_2list_8php.html#a1a4fda4c28a9ee5f91102c023b9501f4", null ],
+    [ "$limit", "d3/df6/comm_2mailing_2list_8php.html#ae05862a0294251c88629b141b5ce329a", null ],
+    [ "$nbtotalofrecords", "d3/df6/comm_2mailing_2list_8php.html#a66917e7b7dd3cc9105e25538f3b5e23e", null ],
+    [ "$object", "d3/df6/comm_2mailing_2list_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$offset", "d3/df6/comm_2mailing_2list_8php.html#a000b1021e8409d2cfd59f7e2ae6781e9", null ],
+    [ "$optioncss", "d3/df6/comm_2mailing_2list_8php.html#a963564795dbec8343c69d8a374ed97da", null ],
+    [ "$page", "d3/df6/comm_2mailing_2list_8php.html#a0a44e6760141442bb439b1ab1395d8ff", null ],
+    [ "$pagenext", "d3/df6/comm_2mailing_2list_8php.html#a858f41315ebc780cc51614bcf2558f6c", null ],
+    [ "$pageprev", "d3/df6/comm_2mailing_2list_8php.html#a2aed2a7a0f1235d3a53b08dea07bd5c7", null ],
+    [ "$parameters", "d3/df6/comm_2mailing_2list_8php.html#a1ad1e4a8ae8b1ffe76741603378f32cf", null ],
+    [ "$reshook", "d3/df6/comm_2mailing_2list_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$resql", "d3/df6/comm_2mailing_2list_8php.html#a6adc5ef389ab51c21dee69262018d615", null ],
+    [ "$result", "d3/df6/comm_2mailing_2list_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$search_all", "d3/df6/comm_2mailing_2list_8php.html#a6bd4f3a71bf800d6d634f01d7fe2acf1", null ],
+    [ "$search_array_options", "d3/df6/comm_2mailing_2list_8php.html#a9db46c52180be765f6322b1d9f2a5612", null ],
+    [ "$search_ref", "d3/df6/comm_2mailing_2list_8php.html#af1a9873316820a11c4af92c3597d352f", null ],
+    [ "$sortfield", "d3/df6/comm_2mailing_2list_8php.html#ad8a3bcfb2e745be70b1e7ebe97472ce6", null ],
+    [ "$sortorder", "d3/df6/comm_2mailing_2list_8php.html#a11ec75e1068cd7566eaaf44082cdd029", null ],
+    [ "$sql", "d3/df6/comm_2mailing_2list_8php.html#a60c09f1307fa2cb4f6bee8ccbafcc120", null ],
+    [ "else", "d3/df6/comm_2mailing_2list_8php.html#a5a3843bcabb2041fc80cd7a9298c85ad", null ]
+];

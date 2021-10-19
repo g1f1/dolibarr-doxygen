@@ -1,0 +1,47 @@
+<map id="ModeleBoxes" name="ModeleBoxes">
+<area shape="rect" id="node1" title="Class ModeleBoxes." alt="" coords="5,1141,105,1167"/>
+<area shape="rect" id="node2" href="$d1/dbd/classbox__accountancy__last__manual__entries.html" title="Class to manage the box to show last manual entries." alt="" coords="179,5,329,47"/>
+<area shape="rect" id="node3" href="$d2/d62/classbox__accountancy__suspense__account.html" title="Class to manage the box to show suspense account." alt="" coords="161,71,347,112"/>
+<area shape="rect" id="node4" href="$d2/d1c/classbox__actions.html" title="Class to manage the box to show last events." alt="" coords="209,137,299,163"/>
+<area shape="rect" id="node5" href="$df/d26/classbox__activity.html" title="Class to manage the box of customer activity (invoice, order, proposal)" alt="" coords="209,187,299,214"/>
+<area shape="rect" id="node6" href="$d2/d01/classbox__birthdays.html" title="Class to manage the box to show user birthdays." alt="" coords="203,238,305,265"/>
+<area shape="rect" id="node7" href="$d6/df1/classbox__birthdays__members.html" title="Class to manage the box to show user birthdays." alt="" coords="173,289,335,315"/>
+<area shape="rect" id="node8" href="$d1/d28/classbox__boms.html" title="Class to manage the box to show last orders." alt="" coords="213,339,295,366"/>
+<area shape="rect" id="node9" href="$d5/dcf/classbox__bookmarks.html" title="Class to manage the box to show bookmarks." alt="" coords="197,390,311,417"/>
+<area shape="rect" id="node10" href="$dd/d09/classbox__clients.html" title="Class to manage the box to show last thirdparties." alt="" coords="211,441,297,467"/>
+<area shape="rect" id="node11" href="$db/ddc/classbox__commandes.html" title="Class to manage the box to show last orders." alt="" coords="194,491,314,518"/>
+<area shape="rect" id="node12" href="$d9/d54/classbox__comptes.html" title="Class to manage the box to show last users." alt="" coords="205,542,303,569"/>
+<area shape="rect" id="node13" href="$d3/d1b/classbox__contacts.html" title="Class to manage the box to show last contacts." alt="" coords="205,593,303,619"/>
+<area shape="rect" id="node14" href="$dd/d91/classbox__contracts.html" title="Class to manage the box to show last contracts." alt="" coords="203,643,305,670"/>
+<area shape="rect" id="node15" href="$db/dfb/classbox__external__rss.html" title="Class to manage the box to show RSS feeds." alt="" coords="195,694,313,721"/>
+<area shape="rect" id="node16" href="$d6/d67/classbox__factures.html" title="Class to manage the box to show last invoices." alt="" coords="206,745,302,771"/>
+<area shape="rect" id="node17" href="$d2/d5c/classbox__factures__fourn.html" title="Class to manage the box to show last supplier invoices." alt="" coords="188,795,320,822"/>
+<area shape="rect" id="node18" href="$d6/de3/classbox__factures__fourn__imp.html" title="Class to manage the box to show not payed suppliers invoices." alt="" coords="174,846,334,873"/>
+<area shape="rect" id="node19" href="$d9/d13/classbox__factures__imp.html" title="Class to manage the box to show last invoices." alt="" coords="192,897,316,923"/>
+<area shape="rect" id="node20" href="$d0/d1e/classbox__ficheinter.html" title="Class to manage the box to show last interventions." alt="" coords="203,947,305,974"/>
+<area shape="rect" id="node21" href="$da/d87/classbox__fournisseurs.html" title="Class to manage the box to show last suppliers." alt="" coords="194,998,314,1025"/>
+<area shape="rect" id="node22" href="$d0/d98/classbox__goodcustomers.html" title="Class to manage the box to show last thirdparties." alt="" coords="185,1049,323,1075"/>
+<area shape="rect" id="node23" href="$db/d76/classbox__graph__invoices__permonth.html" title="Class to manage the box to show last invoices." alt="" coords="186,1100,322,1141"/>
+<area shape="rect" id="node24" href="$d4/dba/classbox__graph__invoices__supplier__permonth.html" title="Class to manage the box to show last invoices." alt="" coords="186,1165,322,1207"/>
+<area shape="rect" id="node25" href="$d5/d77/classbox__graph__orders__permonth.html" title="Class to manage the box to show last orders." alt="" coords="161,1231,347,1258"/>
+<area shape="rect" id="node26" href="$d1/dc0/classbox__graph__orders__supplier__permonth.html" title="Class to manage the box to show last orders." alt="" coords="166,1283,342,1324"/>
+<area shape="rect" id="node27" href="$d8/de2/classbox__graph__product__distribution.html" title="Class to manage the box to show last invoices." alt="" coords="153,1349,355,1375"/>
+<area shape="rect" id="node28" href="$d4/de6/classbox__graph__propales__permonth.html" title="Class to manage the box to show last propals." alt="" coords="185,1400,323,1441"/>
+<area shape="rect" id="node29" href="$de/d5a/classbox__last__modified__ticket.html" title="Class to manage the box." alt="" coords="172,1466,336,1493"/>
+<area shape="rect" id="node30" href="$db/d2b/classbox__last__ticket.html" title="Class to manage the box." alt="" coords="199,1517,309,1543"/>
+<area shape="rect" id="node31" href="$d1/d07/classbox__lastlogin.html" title="Class to manage the box of last login." alt="" coords="205,1567,303,1594"/>
+<area shape="rect" id="node32" href="$da/d41/classbox__members.html" title="Class to manage the box to show last members." alt="" coords="203,1618,305,1645"/>
+<area shape="rect" id="node33" href="$d6/dfa/classbox__mos.html" title="Class to manage the box to show last orders." alt="" coords="217,1669,291,1695"/>
+<area shape="rect" id="node34" href="$d7/d34/classbox__produits.html" title="Class to manage the box to show last products." alt="" coords="207,1719,301,1746"/>
+<area shape="rect" id="node35" href="$de/d08/classbox__produits__alerte__stock.html" title="Class to manage the box to show too low stocks products." alt="" coords="187,1771,321,1812"/>
+<area shape="rect" id="node36" href="$d9/de1/classbox__project.html" title="Class to manage the box to show last projet." alt="" coords="210,1837,298,1863"/>
+<area shape="rect" id="node37" href="$d5/d98/classbox__propales.html" title="Class to manage the box to show last proposals." alt="" coords="205,1887,303,1914"/>
+<area shape="rect" id="node38" href="$d9/d25/classbox__prospect.html" title="Class to manage the box to show last prospects." alt="" coords="205,1938,303,1965"/>
+<area shape="rect" id="node39" href="$d8/dec/classbox__services__contracts.html" title="Class to manage the box to show last contracted products/services lines." alt="" coords="175,1989,333,2015"/>
+<area shape="rect" id="node40" href="$d3/d92/classbox__services__expired.html" title="Class to manage the box to show expired services." alt="" coords="181,2039,327,2066"/>
+<area shape="rect" id="node41" href="$d7/d8c/classbox__shipments.html" title="Class to manage the box to show last shipments." alt="" coords="199,2090,309,2117"/>
+<area shape="rect" id="node42" href="$d2/d72/classbox__supplier__orders.html" title="Class that manages the box showing latest supplier orders." alt="" coords="185,2141,323,2167"/>
+<area shape="rect" id="node43" href="$da/dd6/classbox__supplier__orders__awaiting__reception.html" title="Class that manages the box showing latest supplier orders." alt="" coords="185,2192,323,2233"/>
+<area shape="rect" id="node44" href="$d5/dd9/classbox__task.html" title="Class to manage the box to show last task." alt="" coords="217,2258,291,2285"/>
+<area shape="rect" id="node45" href="$d0/dc2/classmymodulewidget1.html" title="Includes." alt="" coords="191,2309,317,2335"/>
+</map>

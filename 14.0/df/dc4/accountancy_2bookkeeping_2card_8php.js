@@ -1,0 +1,26 @@
+var accountancy_2bookkeeping_2card_8php =
+[
+    [ "$accountingaccount", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a9d4da73b1fb817359c0b99bd53de255f", null ],
+    [ "$accountingaccount_label", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a653e03e9bb19ef7bb21dffa7158cb058", null ],
+    [ "$accountingaccount_number", "df/dc4/accountancy_2bookkeeping_2card_8php.html#ad47a7d855f4117f76291faa99371f3f9", null ],
+    [ "$accountingjournal", "df/dc4/accountancy_2bookkeeping_2card_8php.html#aafdea202853b1b8706bebf877d0bc1a7", null ],
+    [ "$action", "df/dc4/accountancy_2bookkeeping_2card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$credit", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a009257e35782bc68c8fd5dd4e23b589e", null ],
+    [ "$debit", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a27dc05c03fd3e421639f1ad32a446da7", null ],
+    [ "$formaccounting", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a686fa67dad6e070f0b4ad53bfd27773c", null ],
+    [ "$html", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a67cecd871a60148c184f9d9c8aa74a8d", null ],
+    [ "$id", "df/dc4/accountancy_2bookkeeping_2card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$journal_code", "df/dc4/accountancy_2bookkeeping_2card_8php.html#ad82879e8c1e053734922f2c536605b45", null ],
+    [ "$journal_label", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a6b6a68e6c29e75475a33d54090c5e9cf", null ],
+    [ "$label_operation", "df/dc4/accountancy_2bookkeeping_2card_8php.html#ac65f132ddf47615271499d0e5be0547c", null ],
+    [ "$mode", "df/dc4/accountancy_2bookkeeping_2card_8php.html#aaa91c9210e59599dc714bcf41045975b", null ],
+    [ "$object", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a221adafd2da54362d17774e89c122270", null ],
+    [ "$optioncss", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a963564795dbec8343c69d8a374ed97da", null ],
+    [ "$piece_num", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a6f69bcdbba45c6f11a8bfde7ad01cad0", null ],
+    [ "$result", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$save", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a00e6dff44e00c36820da5508c6d9aba3", null ],
+    [ "$subledger_account", "df/dc4/accountancy_2bookkeeping_2card_8php.html#acc985f99ea93aa328c63d750ef400dfe", null ],
+    [ "$subledger_label", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a42e4c771e66dbc22f38c359769d33605", null ],
+    [ "$update", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a9be162bae4d414a47d342005d61a95b7", null ],
+    [ "else", "df/dc4/accountancy_2bookkeeping_2card_8php.html#a2572f442aa2bb85e54899b2a08b77d73", null ]
+];

@@ -1,0 +1,9 @@
+<map id="ModeleNumRefBatch" name="ModeleNumRefBatch">
+<area shape="rect" id="node1" title="Parent class to manage numbering of batch products." alt="" coords="5,132,152,159"/>
+<area shape="rect" id="node2" href="$d4/dd2/classmod__lot__advanced.html" title="Class to manage Batch numbering rules advanced." alt="" coords="200,5,331,32"/>
+<area shape="rect" id="node3" href="$d8/d05/classmod__lot__free.html" title=" " alt="" coords="217,56,314,83"/>
+<area shape="rect" id="node4" href="$da/d80/classmod__lot__standard.html" title="Class to manage MO numbering rules standard." alt="" coords="203,107,328,133"/>
+<area shape="rect" id="node5" href="$d0/d17/classmod__sn__advanced.html" title="Class to manage Batch numbering rules advanced." alt="" coords="200,157,331,184"/>
+<area shape="rect" id="node6" href="$dd/d37/classmod__sn__free.html" title=" " alt="" coords="217,208,314,235"/>
+<area shape="rect" id="node7" href="$d1/dc8/classmod__sn__standard.html" title="Class to manage MO numbering rules standard." alt="" coords="203,259,328,285"/>
+</map>

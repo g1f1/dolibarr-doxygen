@@ -1,0 +1,27 @@
+var class_tickets_line =
+[
+    [ "$category_code", "d3/ddc/class_tickets_line.html#abcb7deff9c55cb02140e5c82efa4a4ec", null ],
+    [ "$category_label", "d3/ddc/class_tickets_line.html#ace40d309945b9703ef23ae874c06afb1", null ],
+    [ "$date_close", "d3/ddc/class_tickets_line.html#ad0af16c9d7e65c5fe48a98862301824c", null ],
+    [ "$date_read", "d3/ddc/class_tickets_line.html#abab8a34040395800be7e668d22fd396f", null ],
+    [ "$datec", "d3/ddc/class_tickets_line.html#a43a6ed18d0f87c10387d7b7d5ec7fa63", null ],
+    [ "$fk_project", "d3/ddc/class_tickets_line.html#af29a2535bffe31d79f12511fee010625", null ],
+    [ "$fk_soc", "d3/ddc/class_tickets_line.html#a116267dc230351eab9e78bcbf1f0bdc8", null ],
+    [ "$fk_statut", "d3/ddc/class_tickets_line.html#a8464937e40995baf963e2dcaf9a6e3d0", null ],
+    [ "$fk_user_assign", "d3/ddc/class_tickets_line.html#aa00c5400743efd4681fcd747a7bdd71a", null ],
+    [ "$fk_user_create", "d3/ddc/class_tickets_line.html#a7fbf8c8dbfb8033111457909727581d3", null ],
+    [ "$id", "d3/ddc/class_tickets_line.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$message", "d3/ddc/class_tickets_line.html#abf17cb2dba2ed17cb28aa5f37deb5293", null ],
+    [ "$origin_email", "d3/ddc/class_tickets_line.html#a0b1b83deefea966eade815b3f04abff8", null ],
+    [ "$progress", "d3/ddc/class_tickets_line.html#abb602461442b2937c0d8fc11026a3dc6", null ],
+    [ "$ref", "d3/ddc/class_tickets_line.html#af63b439d0c69c1a6e9c2d1b9a4f4af9e", null ],
+    [ "$resolution", "d3/ddc/class_tickets_line.html#adcfa918e05b5a98cbddc84bc3f1c15cc", null ],
+    [ "$rowid", "d3/ddc/class_tickets_line.html#aea0f842c6eee8319cfba3c3398f3f8a2", null ],
+    [ "$severity_code", "d3/ddc/class_tickets_line.html#af4995f90bcd8ffb05ca68c07da897d88", null ],
+    [ "$severity_label", "d3/ddc/class_tickets_line.html#a98e236ef8834fb494f3b34e6871f725f", null ],
+    [ "$subject", "d3/ddc/class_tickets_line.html#afea90503726cd5ad2eb80baf0b6d217d", null ],
+    [ "$timing", "d3/ddc/class_tickets_line.html#a97244fa294e503a8466e58852d8834ae", null ],
+    [ "$track_id", "d3/ddc/class_tickets_line.html#a29f473f912472159e90098c5f0a704cf", null ],
+    [ "$type_code", "d3/ddc/class_tickets_line.html#abbd00372f94671b10bfa2a8000532546", null ],
+    [ "$type_label", "d3/ddc/class_tickets_line.html#aca98c51a4a130b5b46b07a714d605607", null ]
+];

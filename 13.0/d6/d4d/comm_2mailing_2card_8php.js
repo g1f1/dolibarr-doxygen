@@ -1,0 +1,25 @@
+var comm_2mailing_2card_8php =
+[
+    [ "$action", "d6/d4d/comm_2mailing_2card_8php.html#aa698a3e72116e8e778be0e95d908ee30", null ],
+    [ "$confirm", "d6/d4d/comm_2mailing_2card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23", null ],
+    [ "$extrafields", "d6/d4d/comm_2mailing_2card_8php.html#aa659316307a821cdcd60350fd0290d6e", null ],
+    [ "$form", "d6/d4d/comm_2mailing_2card_8php.html#ab3128353215dd75c53697076a7cf1a66", null ],
+    [ "$help_url", "d6/d4d/comm_2mailing_2card_8php.html#a455e983ac152d2c101860a4845fa6417", null ],
+    [ "$htmlother", "d6/d4d/comm_2mailing_2card_8php.html#a0197f4bcd7259cd80f2bc31e6cfa884f", null ],
+    [ "$id", "d6/d4d/comm_2mailing_2card_8php.html#ae97941710d863131c700f069b109991e", null ],
+    [ "$listofmethods", "d6/d4d/comm_2mailing_2card_8php.html#a2b2dcca62329b2d49e29d9498ca55b6d", null ],
+    [ "$listofmethods", "d6/d4d/comm_2mailing_2card_8php.html#add81f7ee7374b2a90ca5b039f39b0143", null ],
+    [ "$listofmethods", "d6/d4d/comm_2mailing_2card_8php.html#a79e5023917ddfa034ba4501d82e5ce8f", null ],
+    [ "$object", "d6/d4d/comm_2mailing_2card_8php.html#a52123b83a1952a68c5513e47d59ec4a6", null ],
+    [ "$parameters", "d6/d4d/comm_2mailing_2card_8php.html#ab79d246480c4ac3a0db6bbceca92ad32", null ],
+    [ "$reshook", "d6/d4d/comm_2mailing_2card_8php.html#a9f714fd8cba1988231c5a555da5f4ea8", null ],
+    [ "$result", "d6/d4d/comm_2mailing_2card_8php.html#a112ef069ddc0454086e3d1e6d8d55d07", null ],
+    [ "$signature", "d6/d4d/comm_2mailing_2card_8php.html#a8f34ca1e46a621ab10a3a40addb794f5", null ],
+    [ "$substitutionarray", "d6/d4d/comm_2mailing_2card_8php.html#a22612c03c6f0da49ac4dfe32d8f40fe5", null ],
+    [ "$targetobject", "d6/d4d/comm_2mailing_2card_8php.html#a5fa3864a8fbbf9199ad70f731d664554", null ],
+    [ "$urlfrom", "d6/d4d/comm_2mailing_2card_8php.html#a0e2dadde7cdad8fcc55229942183a457", null ],
+    [ "else", "d6/d4d/comm_2mailing_2card_8php.html#a663f9f1f6bfa69a6c81a1b7e2af8f978", null ],
+    [ "if", "d6/d4d/comm_2mailing_2card_8php.html#ad38588217bb87d4d432c4629b684e23e", null ],
+    [ "substitutionarray", "d6/d4d/comm_2mailing_2card_8php.html#a0f5a3d4981bcd78e0e77ff557c0dce71", null ],
+    [ "substitutionarrayfortest", "d6/d4d/comm_2mailing_2card_8php.html#a2d832268055b0d37275d39d6a2cbaec5", null ]
+];

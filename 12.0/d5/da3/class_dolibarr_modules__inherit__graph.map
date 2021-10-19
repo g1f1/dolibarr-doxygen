@@ -1,0 +1,89 @@
+<map id="DolibarrModules" name="DolibarrModules">
+<area shape="rect" id="node1" title="Class DolibarrModules." alt="" coords="5,2159,120,2185"/>
+<area shape="rect" id="node2" href="$d5/d72/classmod_accounting.html" title="Description and activation class for module accounting expert." alt="" coords="207,5,319,32"/>
+<area shape="rect" id="node3" href="$da/dd7/classmod_adherent.html" title="Class to describe and enable module Adherent." alt="" coords="214,56,313,83"/>
+<area shape="rect" id="node4" href="$da/d64/classmod_agenda.html" title="Class to describe and enable/disable module Agenda." alt="" coords="218,107,309,133"/>
+<area shape="rect" id="node5" href="$d1/d29/classmod_api.html" title="Description and activation class for module Api." alt="" coords="230,157,297,184"/>
+<area shape="rect" id="node6" href="$da/dd9/classmod_asset.html" title="Description and activation class for module FixedAssets." alt="" coords="223,208,304,235"/>
+<area shape="rect" id="node7" href="$d6/d4b/classmod_banque.html" title="Class to describe and enable module Banque." alt="" coords="218,259,309,285"/>
+<area shape="rect" id="node8" href="$d9/daf/classmod_barcode.html" title="Class to describe Barcode." alt="" coords="216,309,311,336"/>
+<area shape="rect" id="node9" href="$d6/d95/classmod_blocked_log.html" title="Class to describe a BlockedLog module." alt="" coords="205,360,321,387"/>
+<area shape="rect" id="node10" href="$d5/d1a/classmod_bom.html" title="Description and activation class for module Bom." alt="" coords="226,411,301,437"/>
+<area shape="rect" id="node11" href="$d8/d62/classmod_bookmark.html" title="Class to describe and enable module Bookmark." alt="" coords="210,461,317,488"/>
+<area shape="rect" id="node12" href="$dc/d17/classmod_cash_desk.html" title="Class to describe and enable module Point Of Sales." alt="" coords="210,512,317,539"/>
+<area shape="rect" id="node13" href="$d5/d6b/classmod_categorie.html" title="Class to describe and enable module Categorie." alt="" coords="212,563,315,589"/>
+<area shape="rect" id="node14" href="$dc/de1/classmod_click_to_dial.html" title="Class to describe and enable module Click to Dial." alt="" coords="207,613,320,640"/>
+<area shape="rect" id="node15" href="$d6/d35/classmod_collab.html" title="Class to describe Websites module." alt="" coords="222,664,305,691"/>
+<area shape="rect" id="node16" href="$d7/df4/classmod_commande.html" title="Class to describe module customer orders." alt="" coords="207,715,320,741"/>
+<area shape="rect" id="node17" href="$d1/d42/classmod_comptabilite.html" title="Class to describe and enable module Comptabilite." alt="" coords="204,765,323,792"/>
+<area shape="rect" id="node18" href="$d8/de3/classmod_contrat.html" title="Class to describe and enable module Contrat." alt="" coords="219,816,308,843"/>
+<area shape="rect" id="node19" href="$d9/dde/classmod_cron.html" title="Class to describe a Cron module." alt="" coords="226,867,301,893"/>
+<area shape="rect" id="node20" href="$d4/dbc/classmod_data_policy.html" title="Description and activation class for module datapolicy." alt="" coords="209,917,318,944"/>
+<area shape="rect" id="node21" href="$d6/d95/classmod_dav.html" title="Description and activation class for module dav." alt="" coords="228,968,299,995"/>
+<area shape="rect" id="node22" href="$df/de0/classmod_debug_bar.html" title="Class to describe and enable module." alt="" coords="211,1019,315,1045"/>
+<area shape="rect" id="node23" href="$de/d4d/classmod_deplacement.html" title="Class to describe and enable module Deplacement." alt="" coords="202,1069,325,1096"/>
+<area shape="rect" id="node24" href="$d7/d07/classmod_document_generation.html" title="Class to describe and enable module Document." alt="" coords="179,1120,348,1147"/>
+<area shape="rect" id="node25" href="$d9/d63/classmod_don.html" title="Class to describe and enable module Donation." alt="" coords="228,1171,299,1197"/>
+<area shape="rect" id="node26" href="$d9/d1e/classmod_dynamic_prices.html" title="Class descriptor of DynamicPrices module." alt="" coords="196,1221,331,1248"/>
+<area shape="rect" id="node27" href="$d8/df9/classmod_e_c_m.html" title="Description and activation class for module ECM." alt="" coords="226,1272,301,1299"/>
+<area shape="rect" id="node28" href="$d5/d6c/classmod_email_collector.html" title="Description and activation class for module emailcollector." alt="" coords="198,1323,329,1349"/>
+<area shape="rect" id="node29" href="$db/d55/classmod_expedition.html" title="Class to describe and enable module Expedition." alt="" coords="210,1373,317,1400"/>
+<area shape="rect" id="node30" href="$dc/d46/classmod_expense_report.html" title="Description and activation class for module ExpenseReport." alt="" coords="196,1424,331,1451"/>
+<area shape="rect" id="node31" href="$d7/d68/classmod_export.html" title="Class to describe and enable module export." alt="" coords="222,1475,305,1501"/>
+<area shape="rect" id="node32" href="$d0/d5d/classmod_external_rss.html" title="Class to describe and enable module externalrss." alt="" coords="205,1525,321,1552"/>
+<area shape="rect" id="node33" href="$db/d6f/classmod_external_site.html" title="Description and activation class for module ExternalSite." alt="" coords="205,1576,321,1603"/>
+<area shape="rect" id="node34" href="$d2/d4f/classmod_facture.html" title="Class to describe module customer invoices." alt="" coords="218,1627,309,1653"/>
+<area shape="rect" id="node35" href="$da/de8/classmod_fckeditor.html" title="Class to describe and enable module Fckeditor." alt="" coords="213,1677,314,1704"/>
+<area shape="rect" id="node36" href="$d9/d6e/classmod_ficheinter.html" title="Class to describe and enable module Ficheinter." alt="" coords="211,1728,315,1755"/>
+<area shape="rect" id="node37" href="$d5/dd3/classmod_fournisseur.html" title="Description and activation class for module Fournisseur." alt="" coords="206,1779,321,1805"/>
+<area shape="rect" id="node38" href="$d5/dea/classmod_f_t_p.html" title="Description and activation class for module FTP." alt="" coords="227,1829,299,1856"/>
+<area shape="rect" id="node39" href="$de/dc7/classmod_geo_i_p_maxmind.html" title="Class to describe and enable module Import." alt="" coords="195,1880,331,1907"/>
+<area shape="rect" id="node40" href="$d2/d85/classmod_gravatar.html" title="Description and activation class for module Gravatar." alt="" coords="215,1931,312,1957"/>
+<area shape="rect" id="node41" href="$de/d17/classmod_holiday.html" title="Description and activation class for module holiday." alt="" coords="218,1981,309,2008"/>
+<area shape="rect" id="node42" href="$d4/d10/classmod_h_r_m.html" title="Class to describe and activate the HRM module." alt="" coords="225,2032,302,2059"/>
+<area shape="rect" id="node43" href="$d9/d04/classmod_import.html" title="Class to describe and enable module Import." alt="" coords="221,2083,305,2109"/>
+<area shape="rect" id="node44" href="$d2/d69/classmod_incoterm.html" title="Description and activation class for module MyModule." alt="" coords="214,2133,313,2160"/>
+<area shape="rect" id="node45" href="$dc/d87/classmod_label.html" title="Class to describe and enable module Label." alt="" coords="224,2184,303,2211"/>
+<area shape="rect" id="node46" href="$d6/dcc/classmod_ldap.html" title="Class to describe and enable module Ldap." alt="" coords="225,2235,301,2261"/>
+<area shape="rect" id="node47" href="$db/d8e/classmod_loan.html" title="Class to manage loan module." alt="" coords="225,2285,301,2312"/>
+<area shape="rect" id="node48" href="$df/ddf/classmod_mailing.html" title="Class to describe and enable module Mailing." alt="" coords="219,2336,307,2363"/>
+<area shape="rect" id="node49" href="$db/d89/classmod_mailman_spip.html" title="Class to describe and enable module Click to Dial." alt="" coords="202,2387,325,2413"/>
+<area shape="rect" id="node50" href="$dd/d2c/classmod_margin.html" title="Class to describe module Margin." alt="" coords="220,2437,307,2464"/>
+<area shape="rect" id="node51" href="$db/d8b/classmod_module_builder.html" title="Class to describe a ModuleBuilder module." alt="" coords="199,2488,328,2515"/>
+<area shape="rect" id="node52" href="$d6/db8/classmod_mrp.html" title="Description and activation class for module Mrp." alt="" coords="229,2539,298,2565"/>
+<area shape="rect" id="node53" href="$dc/d00/classmod_multi_currency.html" title="Description and activation class for module MyModule." alt="" coords="200,2589,327,2616"/>
+<area shape="rect" id="node54" href="$d7/daf/classmod_my_module.html" title="Description and activation class for module MyModule." alt="" coords="210,2640,317,2667"/>
+<area shape="rect" id="node55" href="$d4/de9/classmod_notification.html" title="Class to describe and enable module Mailing." alt="" coords="207,2691,319,2717"/>
+<area shape="rect" id="node56" href="$d5/d03/classmod_oauth.html" title="Class to describe and activate module OAuth." alt="" coords="222,2741,305,2768"/>
+<area shape="rect" id="node57" href="$d6/d2a/classmod_open_survey.html" title="Description and activation class for module opensurvey." alt="" coords="204,2792,323,2819"/>
+<area shape="rect" id="node58" href="$db/d61/classmod_pay_box.html" title="Description and activation class for module Paybox." alt="" coords="218,2843,309,2869"/>
+<area shape="rect" id="node59" href="$db/d5c/classmod_payment_by_bank_transfer.html" title="Class to describe and enable module of payment by Bank transfer." alt="" coords="168,2893,359,2920"/>
+<area shape="rect" id="node60" href="$de/d67/classmod_paypal.html" title="Description and activation class for module Paypal." alt="" coords="220,2944,307,2971"/>
+<area shape="rect" id="node61" href="$d5/d78/classmod_prelevement.html" title="Class to describe and enable module of payment by Direct Debit." alt="" coords="203,2995,323,3021"/>
+<area shape="rect" id="node62" href="$d4/d22/classmod_printing.html" title="Class to describe and activate module Direct Printing." alt="" coords="218,3045,309,3072"/>
+<area shape="rect" id="node63" href="$d6/d43/classmod_product.html" title="Class descriptor of Product module." alt="" coords="217,3096,309,3123"/>
+<area shape="rect" id="node64" href="$df/dc5/classmod_product_batch.html" title="Description and activation class for module productdluo." alt="" coords="200,3147,327,3173"/>
+<area shape="rect" id="node65" href="$de/dfe/classmod_projet.html" title="Class to describe and enable module Projet." alt="" coords="223,3197,304,3224"/>
+<area shape="rect" id="node66" href="$d8/dfb/classmod_propale.html" title="Class to describe and enable module Propale." alt="" coords="218,3248,309,3275"/>
+<area shape="rect" id="node67" href="$da/d9a/classmod_receipt_printer.html" title="Class to describe and activate module Receipt Printer." alt="" coords="199,3299,328,3325"/>
+<area shape="rect" id="node68" href="$d6/d23/classmod_reception.html" title="Class to describe and enable module Reception." alt="" coords="211,3349,316,3376"/>
+<area shape="rect" id="node69" href="$d7/dcf/classmod_resource.html" title="Description and activation class for module Resource." alt="" coords="212,3400,315,3427"/>
+<area shape="rect" id="node70" href="$d8/d57/classmod_salaries.html" title="Class to manage salaries module." alt="" coords="216,3451,311,3477"/>
+<area shape="rect" id="node71" href="$db/dfd/classmod_service.html" title="Class to describe and enable module Service." alt="" coords="218,3501,309,3528"/>
+<area shape="rect" id="node72" href="$d8/d06/classmod_social_networks.html" title="Class to describe a SocialNetworks module." alt="" coords="194,3552,333,3579"/>
+<area shape="rect" id="node73" href="$df/d37/classmod_societe.html" title="Class to describe and enable module Societe." alt="" coords="218,3603,309,3629"/>
+<area shape="rect" id="node74" href="$d5/dfd/classmod_stock.html" title="Class to describe and enable module Stock." alt="" coords="223,3653,304,3680"/>
+<area shape="rect" id="node75" href="$d4/d4f/classmod_stripe.html" title="Description and activation class for module Paybox." alt="" coords="223,3704,304,3731"/>
+<area shape="rect" id="node76" href="$d4/d00/classmod_supplier_proposal.html" title="Class to describe and enable module SupplierProposal." alt="" coords="191,3755,336,3781"/>
+<area shape="rect" id="node77" href="$d4/dca/classmod_syslog.html" title="Class to enable/disable module Logs." alt="" coords="220,3805,307,3832"/>
+<area shape="rect" id="node78" href="$d6/da2/classmod_take_pos.html" title="Class to describe and enable module TakePos." alt="" coords="214,3856,313,3883"/>
+<area shape="rect" id="node79" href="$d0/d2f/classmod_tax.html" title="Class to describe and enable module Tax." alt="" coords="229,3907,297,3933"/>
+<area shape="rect" id="node80" href="$dc/d32/classmod_ticket.html" title="Description and activation class for module Ticket." alt="" coords="222,3957,305,3984"/>
+<area shape="rect" id="node81" href="$d3/d83/classmod_user.html" title="Class to describe and enable module User." alt="" coords="226,4008,301,4035"/>
+<area shape="rect" id="node82" href="$d2/d6a/classmod_variants.html" title="Description and activation class for module Product variants." alt="" coords="216,4059,311,4085"/>
+<area shape="rect" id="node83" href="$d3/dbd/classmod_web_services.html" title="Class to describe a WebServices module." alt="" coords="201,4109,325,4136"/>
+<area shape="rect" id="node84" href="$d8/d10/classmod_web_services_client.html" title="Class to describe a sync supplier web services module." alt="" coords="185,4160,342,4187"/>
+<area shape="rect" id="node85" href="$dc/d87/classmod_website.html" title="Class to describe Websites module." alt="" coords="216,4211,311,4237"/>
+<area shape="rect" id="node86" href="$d1/d60/classmod_workflow.html" title="Class to describe and enable module Workflow." alt="" coords="213,4261,313,4288"/>
+<area shape="rect" id="node87" href="$d2/dab/classmod_zapier.html" title="Description and activation class for module Zapier." alt="" coords="222,4312,305,4339"/>
+</map>
